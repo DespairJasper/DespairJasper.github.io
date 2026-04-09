@@ -1,11 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Despair Jasper</title>
+        <title>Tags on Hugo Chu</title>
         <link>https://DespairJasper.github.io/tags/</link>
-        <description>Recent content in Tags on Despair Jasper</description>
+        <description>Recent content in Tags on Hugo Chu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Despair-Jasper</copyright><atom:link href="https://DespairJasper.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Despair-Jasper</copyright>
+        <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://DespairJasper.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>100-Day Marathon Plan</title>
+        <link>https://DespairJasper.github.io/tags/100-day-marathon-plan/</link>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/100-day-marathon-plan/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Running</title>
+        <link>https://DespairJasper.github.io/tags/running/</link>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/running/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Family</title>
+        <link>https://DespairJasper.github.io/tags/family/</link>
+        <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/family/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Sichuan</title>
+        <link>https://DespairJasper.github.io/tags/sichuan/</link>
+        <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/sichuan/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Beijing</title>
+        <link>https://DespairJasper.github.io/tags/beijing/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/beijing/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Xinjiang</title>
+        <link>https://DespairJasper.github.io/tags/xinjiang/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/xinjiang/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Year in Review</title>
+        <link>https://DespairJasper.github.io/tags/year-in-review/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/year-in-review/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Day Hiking</title>
+        <link>https://DespairJasper.github.io/tags/day-hiking/</link>
+        <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/day-hiking/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Backpacking</title>
+        <link>https://DespairJasper.github.io/tags/backpacking/</link>
+        <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/tags/backpacking/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

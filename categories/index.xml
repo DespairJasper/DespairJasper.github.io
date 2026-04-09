@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Despair Jasper</title>
+        <title>Categories on Hugo Chu</title>
         <link>https://DespairJasper.github.io/categories/</link>
-        <description>Recent content in Categories on Despair Jasper</description>
+        <description>Recent content in Categories on Hugo Chu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Despair-Jasper</copyright><atom:link href="https://DespairJasper.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>This Is life</title>
-        <link>https://DespairJasper.github.io/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <copyright>Despair-Jasper</copyright>
+        <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://DespairJasper.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>This Is Life</title>
+        <link>https://DespairJasper.github.io/categories/this-is-life/</link>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://DespairJasper.github.io/categories/test/</guid>
-        <description>&lt;img src="https://DespairJasper.github.io/categories/test/JPEG_20230417_225159_2589959314806269909.jpg" alt="Featured image of post This Is life" /&gt;</description>
+        <guid>https://DespairJasper.github.io/categories/this-is-life/</guid>
+        <description>&lt;img src="https://DespairJasper.github.io/categories/this-is-life/1.jpg" alt="Featured image of post This Is Life" /&gt;</description>
+        </item>
+        <item>
+        <title>Outdoors</title>
+        <link>https://DespairJasper.github.io/categories/outdoors/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://DespairJasper.github.io/categories/outdoors/</guid>
+        <description>&lt;img src="https://DespairJasper.github.io/categories/outdoors/1.jpg" alt="Featured image of post Outdoors" /&gt;</description>
         </item>
         
     </channel>

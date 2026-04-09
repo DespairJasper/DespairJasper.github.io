@@ -1,54 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Despair Jasper</title>
+        <title>Pages on Hugo Chu</title>
         <link>https://DespairJasper.github.io/page/</link>
-        <description>Recent content in Pages on Despair Jasper</description>
+        <description>Recent content in Pages on Hugo Chu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Despair-Jasper</copyright>
-        <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://DespairJasper.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://DespairJasper.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>https://DespairJasper.github.io/about-me/</link>
-        <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
         
         <guid>https://DespairJasper.github.io/about-me/</guid>
-        <description>&lt;p&gt;As a candidate for a Bachelor of Economics, Hongcong (Jasper) Chu technically navigates a joint program between CUP and CUFE, but his academic heart firmly belongs to CUFE. He thrives in its inclusive environment, a stark contrast to the atmosphere at CUP, which he finds profoundly uninspiring.&lt;/p&gt;
-&lt;p&gt;While his high GPA paints the picture of a model student, this is a masterful illusion. Jasper is the furthest thing from a test-oriented student playing the system for grad school admission; he&amp;rsquo;s more likely to be found skipping class to immerse himself in a research project he genuinely loves. His course selection is a testament to this, guided purely by passion rather than the path of least resistance to an easy grade. When not staging his quiet academic rebellion, he’s an avid runner, cyclist, and heavy-load trekker. In meetings and presentations, he’s a notorious chatterbox with a mind that loves to wander down the most creative and delightfully random paths.&lt;/p&gt;
-&lt;p&gt;He is engaged in a variety of interesting studies, including:&lt;/p&gt;
-&lt;ul&gt;
+        <description>&lt;p&gt;I am an undergraduate economics student at China University of Petroleum (Beijing), and I studied as an exchange student at Central University of Finance and Economics during my sophomore year. My time at CUFE profoundly shaped my academic path, offering the inclusive and rigorous environment where my intellectual curiosity genuinely flourished.&lt;/p&gt;
+&lt;p&gt;My research lies at the intersection of political economy, development economics, and industrial organization. Stemming from my early childhood observations of the world around me, these interests have evolved into a core academic inquiry: &lt;strong&gt;how do micro-level actors strategically respond to institutional frictions and policy interventions?&lt;/strong&gt; Influenced by the Austrian School of Economics and the work of Xiaokai Yang, I study the ongoing tension between rigid institutional designs and the spontaneous order of the market.&lt;/p&gt;
+&lt;p&gt;Empirically, I move beyond conventional datasets, leveraging unique micro-administrative records, geospatial data, and unstructured text to identify hidden strategic behaviors. Currently, I am working on integrating experimental economics into my research framework to more precisely capture actors&amp;rsquo; true preferences and decision-making dynamics. Through these tools, I aim to unpack the unintended consequences of policy designs and understand how grassroots survival strategies shape the long-term trajectory of transitional economies.&lt;/p&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.frl.2025.108932&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;From shadows to spotlight: How big data bureaus unveil corporate R&amp;amp;D gaming?&lt;/a&gt;&lt;br&gt;
+Yang, X., Zhang, X., Zang, H., Chu, H., &amp;amp; Feng, C. (2025). &lt;em&gt;Finance Research Letters&lt;/em&gt;, 108932. (JCR 1, ABS2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;working-papers&#34;&gt;Working Papers
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Publish or Perish, Stay or Flee? The Great Reshuffling of China&amp;rsquo;s Innovation Landscape.  (with Yiduo (Edwin) Wang)   In Preparation 😶‍🌫️🤠&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://DespairJasper.github.io/papers/Home_is_Peace_not_a_Place.pdf&#34; &gt;Home is peace, not a place: How does urban storytelling impact talent&amp;rsquo;s &amp;ldquo;vote with their feet&amp;rdquo;?&lt;/a&gt;&lt;br&gt;
+With Xiwei Men and Jiaxiang Wei. Submitted to the 8th National Development Youth Forum (NSD, Peking University)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Beyond the Facade: Unpacking the Dynamics of Genuine Energy Transition through a Quadripartite Evolutionary Game. (with Songhao Guo, Xinmin Zhang, and Xiaoyin Yang) In Preparation 🙂‍↕️🫡&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms&lt;/a&gt;&lt;br&gt;
+With Dr. Hong Zang, Prof. Chao Feng, and Xiaoyin Yang. With Editor at &lt;em&gt;Journal of Business Ethics&lt;/em&gt; (JCR 1, ABS3, FT50)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Disaster Bonds: The Lock-in of Innovators.  In Preparation 🤔&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://DespairJasper.github.io/papers/Anticorruption1.pdf&#34; &gt;Washing the Stain: Punitive Decoupling and the Sacrificial Cost for Connected Firms&lt;/a&gt;&lt;br&gt;
+With Prof. Chao Feng, Dr. Xinmin Zhang, and Prof. Miao Wang. With Editor at &lt;em&gt;The Economic Journal&lt;/em&gt; (JCR 1, ABS4*)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Greening the Cradle, Polluting the Neighbors: The Environmental Externalities of Political Hierarchy.   In Preparation 🤓🧐&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Weathering the tempest: Natural disasters and firm entry&lt;/a&gt;&lt;br&gt;
+With Prof. Chao Feng, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Economic Geography&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Transferred Social Responsibility: Government Disaster Bailout and Corporate Philanthropy.  (with Chao Feng, Brian Lucey, and Miao Wang)   Under Review at &lt;em&gt;Journal of Development Economics&lt;/em&gt; 🥺&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Why Do Stricter Policies Lead to More Corporate Greenwashing? An Explanation Based on Four-Party Game Theory&lt;/a&gt;&lt;br&gt;
+With Songhao Guo, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Renewable Energy&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;The Digital Unlock: How Big Data Bureaus Break Corporate Carbon Lock-in.  (with Songhao Guo, Xinmin Zhang, Yiduo (Edwin) Wang, and Xiaoyin Yang)  Recent: Desk Rejected by &lt;em&gt;Managerial and Decision Economics&lt;/em&gt; (within one week)🤣😂🤡&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Data-Driven Regulatory Revolution: How Big Data Management Bureaus Uncover Firm R&amp;amp;D Manipulation.   (with Xiaoyin Yang, Chao Feng, Xinmin Zhang, and Hong Zang)   Recent: Rejected after peer review by &lt;em&gt;Economic Analysis and Policy&lt;/em&gt; (within three months, thanks to a lightning-fast reviewer) 🥶🤬&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;At the Eye of the Storm: How Anti-Corruption Reshapes Capital Allocation Efficiency.   (with Chao Feng and Miao Wang)   Recent: Rejected after peer review by &lt;em&gt;Journal of Corporate Finance&lt;/em&gt; (within one month) 😮‍💨&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Transferred Social Responsibility: Government Disaster Bailout and Corporate Philanthropy&lt;/a&gt;&lt;br&gt;
+With Prof. Chao Feng and Prof. Miao Wang. Under Review at &lt;em&gt;Journal of Development Economics&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Look, some of that research was the real deal—stuff I actually cared about. The rest? I was just a name on the author list to pay the bills. It all amounts to nothing anyway. Just be happy, and seriously, don&amp;rsquo;t grind too hard.&lt;/p&gt;
+&lt;p&gt;Ultimately, research is less about crafting a perfect resume and more about feeding a genuine curiosity. Not every paper will change the world. Still, uncovering a small piece of the truth is rewarding enough. Enjoy the process and do not let the academic grind wear you down.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
         <link>https://DespairJasper.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://DespairJasper.github.io/archives/</guid>
         <description></description>
