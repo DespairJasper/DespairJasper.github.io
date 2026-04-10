@@ -219,8 +219,9 @@
 </aside>
 
     <aside class="sidebar right-sidebar sticky">
-    
-    <form action="/zh-cn/search/" class="search-form widget" >
+        
+            
+                <form action="/zh-cn/search/" class="search-form widget" >
         <p>
             <label>搜索</label>
             <input name="keyword" required placeholder="输入关键词..." />
@@ -237,9 +238,10 @@
             </button>
         </p>
     </form>
-    
-    
-    <section class="widget archives">
+            
+        
+            
+                <section class="widget archives">
         <div class="widget-icon">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -276,9 +278,10 @@
             
         </div>
     </section>
-    
-    
-    <section class="widget tagCloud">
+            
+        
+            
+                <section class="widget tagCloud">
     <div class="widget-icon">
         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -306,9 +309,10 @@
     </div>
 </section>
 
-    
-    
-    <section class="widget tagCloud">
+            
+        
+            
+                <section class="widget tagCloud">
     <div class="widget-icon">
         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -361,633 +365,9 @@
         
     </div>
 </section>
-    
-    
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-
-    <section class="widget" style="padding: 0; background: transparent; box-shadow: none;">
-        <div id="aplayer" style="border-radius: 10px; overflow: hidden; box-shadow: var(--shadow-l2);"></div>
-
-        <div style="display: flex; justify-content: center; gap: 40px; margin-top: 15px; padding-bottom: 5px;">
-            <button onclick="ap.skipBack()" style="background: none; border: none; cursor: pointer; font-size: 1.5rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" title="上一首">⏮️</button>
-            <button onclick="ap.skipForward()" style="background: none; border: none; cursor: pointer; font-size: 1.5rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" title="下一首">⏭️</button>
-        </div>
-    </section>
-
-    <script>
-        const ap = new APlayer({
-            container: document.getElementById('aplayer'),
-            mini: false,
-            autoplay: false,
-            theme: '#5e72e4',
-            loop: 'all',
-            order: 'random',
-            preload: 'metadata',
-            audio: [
-                {
-                    name: '稻香',
-                    artist: '周杰伦',
-                    url: '/music/daoxiang.mp3',
-                    cover: '/music/mojiezuo.jpg'
-                },
-                {
-                    name: '搁浅',
-                    artist: '周杰伦',
-                    url: '/music/geqian.mp3',
-                    cover: '/music/qilixiang.jpg'
-                },
-                {
-                    name: '花海',
-                    artist: '周杰伦',
-                    url: '/music/huahai.mp3',
-                    cover: '/music/mojiezuo.jpg'
-                },
-                {
-                    name: '晴天',
-                    artist: '周杰伦',
-                    url: '/music/qingtian.mp3',
-                    cover: '/music/yehuimei.jpg'
-                },
-                {
-                    name: '说好不哭',
-                    artist: '周杰伦 & 五月天阿信',
-                    url: '/music/shuohaobuku.mp3',
-                    cover: '/music/shuohaobuku.jpg'
-                },
-                {
-                    name: '我是如此相信',
-                    artist: '周杰伦',
-                    url: '/music/woshirucixiangxin.mp3',
-                    cover: '/music/zuiweidadezuopin.jpg'
-                },
-                {
-                    name: '僕が死のうと思ったのは',
-                    artist: '中島美嘉',
-                    url: '/music/zhongdaomeijia.mp3',
-                    cover: '/music/zhongdaomeijia.jpg'
-                },
-                {
-                    name: '送你一朵小红花',
-                    artist: '赵英俊',
-                    url: '/music/songniyiduoxiaohonghua.mp3',
-                    cover: '/music/songniyiduoxiaohonghua.jpg'
-                },
-                {
-                    name: 'Fix You',
-                    artist: 'Coldplay',
-                    url: '/music/fixyou.mp3',
-                    cover: '/music/fixyou.jpg'
-                },
-                {
-                    name: '9 Crimes (ft Lloyd cover)',
-                    artist: '于茸 & Lloyd',
-                    url: '/music/9crimesftlloydcover.mp3',
-                    cover: '/music/9crimesftlloydcover.jpg'
-                },
-                {
-                    name: 'Closure',
-                    artist: 'Hayd',
-                    url: '/music/closure.mp3',
-                    cover: '/music/hayd.jpg'
-                },
-                {
-                    name: 'Head In The Clouds',
-                    artist: 'Hayd',
-                    url: '/music/headintheclouds.mp3',
-                    cover: '/music/hayd.jpg'
-                },
-                {
-                    name: 'DEAR JOHN',
-                    artist: '比莉',
-                    url: '/music/dearjohn.mp3',
-                    cover: '/music/dearjohn.jpg'
-                },
-                {
-                    name: 'exile',
-                    artist: 'Taylor Swift & Bon Iver',
-                    url: '/music/exile.mp3',
-                    cover: '/music/exile.jpg'
-                },
-                {
-                    name: 'Free Loop',
-                    artist: 'Daniel Powter',
-                    url: '/music/freeloop.mp3',
-                    cover: '/music/freeloop.jpg'
-                },
-                {
-                    name: 'Hello',
-                    artist: 'Adele',
-                    url: '/music/hello.mp3',
-                    cover: '/music/hello.jpg'
-                },
-                {
-                    name: 'I Miss You',
-                    artist: '昭宥',
-                    url: '/music/imissyou.mp3',
-                    cover: '/music/imissyou.jpg'
-                },
-                {
-                    name: 'It Is Well (Live)',
-                    artist: 'Kristene DiMarco',
-                    url: '/music/itiswelllive.mp3',
-                    cover: '/music/itiswelllive.jpg'
-                },
-                {
-                    name: 'Keep Rolling On',
-                    artist: 'Luke Thompson',
-                    url: '/music/keeprollingon.mp3',
-                    cover: '/music/keeprollingon.jpg'
-                },
-                {
-                    name: 'Keep Your Head Up Princess',
-                    artist: 'Anson Seabra',
-                    url: '/music/keepyourheadupprincess.mp3',
-                    cover: '/music/keepyourheadupprincess.jpg'
-                },
-                {
-                    name: 'Love Story',
-                    artist: 'Taylor Swift',
-                    url: '/music/lovestory.mp3',
-                    cover: '/music/lovestory.jpg'
-                },
-                {
-                    name: 'Perfect',
-                    artist: 'Ed Sheeran',
-                    url: '/music/perfect.mp3',
-                    cover: '/music/perfect.jpg'
-                },
-                {
-                    name: 'Round and round',
-                    artist: 'Heize & 韩秀智',
-                    url: '/music/roundandround.mp3',
-                    cover: '/music/roundandround.jpg'
-                },
-                {
-                    name: 'See You Again',
-                    artist: 'Wiz Khalifa & Charlie Puth',
-                    url: '/music/seeyouagain.mp3',
-                    cover: '/music/seeyouagain.jpg'
-                },
-                {
-                    name: 'Someone Like You',
-                    artist: 'Adele',
-                    url: '/music/someonelikeyou.mp3',
-                    cover: '/music/someonelikeyou.jpg'
-                },
-                {
-                    name: 'Something Just Like This',
-                    artist: 'The Chainsmokers & Coldplay',
-                    url: '/music/somethingjustlikethis.mp3',
-                    cover: '/music/somethingjustlikethis.jpg'
-                },
-                {
-                    name: 'Stay Alive',
-                    artist: 'José González',
-                    url: '/music/stayalive.mp3',
-                    cover: '/music/stayalive.jpg'
-                },
-                {
-                    name: 'Stay With Me',
-                    artist: 'CHANYEOL & Punch',
-                    url: '/music/staywithme.mp3',
-                    cover: '/music/staywithme.jpg'
-                },
-                {
-                    name: 'Supermarket Flowers',
-                    artist: 'Ed Sheeran',
-                    url: '/music/supermarketflowers.mp3',
-                    cover: '/music/supermarketflowers.jpg'
-                },
-                {
-                    name: 'The Nights',
-                    artist: 'Avicii & Nicholas Furlong',
-                    url: '/music/thenights.mp3',
-                    cover: '/music/thenights.jpg'
-                },
-                {
-                    name: 'When We Were Young',
-                    artist: 'Adele',
-                    url: '/music/whenwewereyoung.mp3',
-                    cover: '/music/whenwewereyoung.jpg'
-                },
-                {
-                    name: 'Winter is coming',
-                    artist: '韩秀智',
-                    url: '/music/winteriscoming.mp3',
-                    cover: '/music/winteriscoming.jpg'
-                },
-                {
-                    name: 'Without You',
-                    artist: 'Avicii & Sandro Cavazza',
-                    url: '/music/withoutyou.mp3',
-                    cover: '/music/withoutyou.jpg'
-                },
-                {
-                    name: 'Yellow',
-                    artist: 'Coldplay',
-                    url: '/music/yellow.mp3',
-                    cover: '/music/yellow.jpg'
-                },
-                {
-                    name: 'Young And Beautiful',
-                    artist: 'Lana Del Rey',
-                    url: '/music/youngandbeautiful.mp3',
-                    cover: '/music/youngandbeautiful.jpg'
-                },
-                {
-                    name: 'スパークル (movie ver.)',
-                    artist: 'RADWIMPS',
-                    url: '/music/supakuru.mp3',
-                    cover: '/music/supakuru.jpg'
-                },
-                {
-                    name: 'そばにいるね',
-                    artist: '青山テルマ & SoulJa',
-                    url: '/music/sobaniirune.mp3',
-                    cover: '/music/sobaniirune.jpg'
-                },
-                {
-                    name: 'なんでもないや (movie ver.)',
-                    artist: 'RADWIMPS',
-                    url: '/music/nandemonaiya.mp3',
-                    cover: '/music/supakuru.jpg'
-                },
-                {
-                    name: '爱河',
-                    artist: 'ZaZaZsu砸砸苏',
-                    url: '/music/aihe.mp3',
-                    cover: '/music/aihe.jpg'
-                },
-                {
-                    name: '爱在夏天',
-                    artist: '告五人',
-                    url: '/music/aizaixiatian.mp3',
-                    cover: '/music/aizaixiatian.jpg'
-                },
-                {
-                    name: '愛にできることはまだあるかい',
-                    artist: 'RADWIMPS',
-                    url: '/music/ainidekirukotohamadaaruka.mp3',
-                    cover: '/music/ainidekirukotohamadaaruka.jpg'
-                },
-                {
-                    name: '不为谁而作的歌',
-                    artist: '林俊杰',
-                    url: '/music/buweisheierzuodege.mp3',
-                    cover: '/music/buweisheierzuodege.jpg'
-                },
-                {
-                    name: '그리움의 언덕',
-                    artist: 'April 2nd',
-                    url: '/music/geuriumuieondeok.mp3',
-                    cover: '/music/geuriumuieondeok.jpg'
-                },
-                {
-                    name: '从未见过的海',
-                    artist: '告五人',
-                    url: '/music/congweijianguodehai.mp3',
-                    cover: '/music/congweijianguodehai.jpg'
-                },
-                {
-                    name: '簇拥烈日的花',
-                    artist: 'Morerare & 迟里乌布',
-                    url: '/music/cuyonglieridehua.mp3',
-                    cover: '/music/cuyonglieridehua.jpg'
-                },
-                {
-                    name: '岛屿',
-                    artist: '棱镜乐队',
-                    url: '/music/daoyu.mp3',
-                    cover: '/music/daoyu.jpg'
-                },
-                {
-                    name: '红色高跟鞋',
-                    artist: '蔡健雅',
-                    url: '/music/hongsegaogenxie.mp3',
-                    cover: '/music/hongsegaogenxie.jpg'
-                },
-                {
-                    name: '后来',
-                    artist: '刘若英',
-                    url: '/music/houlai.mp3',
-                    cover: '/music/houlai.jpg'
-                },
-                {
-                    name: '经济舱 (Live)',
-                    artist: 'KAFE_HU咖啡胡',
-                    url: '/music/jingjicanglive.mp3',
-                    cover: '/music/jingjicanglive.jpg'
-                },
-                {
-                    name: '可惜没如果',
-                    artist: '林俊杰',
-                    url: '/music/keximeiruguo.mp3',
-                    cover: '/music/keximeiruguo.jpg'
-                },
-                {
-                    name: '克林',
-                    artist: '棱镜乐队',
-                    url: '/music/kelin.mp3',
-                    cover: '/music/kelin.jpg'
-                },
-                {
-                    name: '浪子回头',
-                    artist: '茄子蛋',
-                    url: '/music/langzihuitou.mp3',
-                    cover: '/music/langzihuitou.jpg'
-                },
-                {
-                    name: '老人と海',
-                    artist: 'ヨルシカ',
-                    url: '/music/roujintoumi.mp3',
-                    cover: '/music/roujintoumi.jpg'
-                },
-                {
-                    name: '命运 (Live版)',
-                    artist: '汪苏泷 & 张碧晨',
-                    url: '/music/mingyunliveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '暮色回响',
-                    artist: '吉星出租',
-                    url: '/music/musehuixiang.mp3',
-                    cover: '/music/musehuixiang.jpg'
-                },
-                {
-                    name: '暮色回响 (Live版)',
-                    artist: '张碧晨 & 李承铉',
-                    url: '/music/musehuixiangliveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '那些你很冒险的梦',
-                    artist: '林俊杰',
-                    url: '/music/naxienihenmaoxiandemeng.mp3',
-                    cover: '/music/naxienihenmaoxiandemeng.jpg'
-                },
-                {
-                    name: '披星戴月的想你',
-                    artist: '告五人',
-                    url: '/music/pixingdaiyuedexiangni.mp3',
-                    cover: '/music/pixingdaiyuedexiangni.jpg'
-                },
-                {
-                    name: '平凡之路',
-                    artist: '朴树',
-                    url: '/music/pingfanzhilu.mp3',
-                    cover: '/music/pingfanzhilu.jpg'
-                },
-                {
-                    name: '起风了',
-                    artist: '买辣椒也用券',
-                    url: '/music/qifengle.mp3',
-                    cover: '/music/qifengle.jpg'
-                },
-                {
-                    name: '晴',
-                    artist: '汪苏泷',
-                    url: '/music/qing.mp3',
-                    cover: '/music/qing.jpg'
-                },
-                {
-                    name: '如果爱忘了 (live)',
-                    artist: '汪苏泷 & 单依纯',
-                    url: '/music/ruguoaiwanglelive.mp3',
-                    cover: '/music/shengshengbuxi.jpg'
-                },
-                {
-                    name: '如果可以 (Live版)',
-                    artist: '汪苏泷 & 徐佳莹',
-                    url: '/music/ruguokeyiliveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '如果有来生',
-                    artist: '谭维维',
-                    url: '/music/ruguoyoulaisheng.mp3',
-                    cover: '/music/ruguoyoulaisheng.jpg'
-                },
-                {
-                    name: '若月亮没来 (Live版)',
-                    artist: '杨宗纬 & 宝石Gem & 王宇宙Leto',
-                    url: '/music/ruoyueliangmeilailiveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '谁',
-                    artist: '曲肖冰',
-                    url: '/music/shui.mp3',
-                    cover: '/music/shui.jpg'
-                },
-                {
-                    name: '生活在别处的你 Another me',
-                    artist: '毛不易 & 中島美嘉',
-                    url: '/music/shenghuozaibiechudenianotherme.mp3',
-                    cover: '/music/shenghuozaibiechudenianotherme.jpg'
-                },
-                {
-                    name: '推开世界的门',
-                    artist: '杨乃文',
-                    url: '/music/tuikaishijiedemen.mp3',
-                    cover: '/music/tuikaishijiedemen.jpg'
-                },
-                {
-                    name: '未末 (写给00后致以童年)',
-                    artist: 'SwevenG骨子哥',
-                    url: '/music/weimoxiegei00houzhiyitongnian.mp3',
-                    cover: '/music/weimoxiegei00houzhiyitongnian.jpg'
-                },
-                {
-                    name: '无法拥有的人要好好道别',
-                    artist: '棱镜乐队',
-                    url: '/music/wufayongyouderenyaohaohaodaobie.mp3',
-                    cover: '/music/daoyu.jpg'
-                },
-                {
-                    name: '无名的人',
-                    artist: '毛不易',
-                    url: '/music/wumingderen.mp3',
-                    cover: '/music/wumingderen.jpg'
-                },
-                {
-                    name: '鲜花',
-                    artist: '回春丹',
-                    url: '/music/xianhua.mp3',
-                    cover: '/music/xianhua.jpg'
-                },
-                {
-                    name: '向云端',
-                    artist: '小霞 & 海洋Bo',
-                    url: '/music/xiangyunduan.mp3',
-                    cover: '/music/xiangyunduan.jpg'
-                },
-                {
-                    name: '像我这样的人',
-                    artist: '毛不易',
-                    url: '/music/xiangwozheyangderen.mp3',
-                    cover: '/music/xiangwozheyangderen.jpg'
-                },
-                {
-                    name: '小霞 (live)',
-                    artist: '黄绮珊',
-                    url: '/music/xiaoxialive.mp3',
-                    cover: '/music/shengshengbuxi.jpg'
-                },
-                {
-                    name: '무제(無題) (Untitled, 2014)',
-                    artist: 'G-DRAGON',
-                    url: '/music/mujeuntitled2014.mp3',
-                    cover: '/music/mujeuntitled2014.jpg'
-                },
-                {
-                    name: '夜空中最亮的星',
-                    artist: '逃跑计划',
-                    url: '/music/yekongzhongzuiliangdexing.mp3',
-                    cover: '/music/escapeplan.jpg'
-                },
-                {
-                    name: '一万次悲伤',
-                    artist: '逃跑计划',
-                    url: '/music/yiwancibeishang.mp3',
-                    cover: '/music/escapeplan.jpg'
-                },
-                {
-                    name: '呓语',
-                    artist: '毛不易',
-                    url: '/music/yiyu.mp3',
-                    cover: '/music/yiyu.jpg'
-                },
-                {
-                    name: '미안해 미워해 사랑해',
-                    artist: 'Crush',
-                    url: '/music/mianhaemiwohaesaranghae.mp3',
-                    cover: '/music/mianhaemiwohaesaranghae.jpg'
-                },
-                {
-                    name: '再谈记忆',
-                    artist: '盘尼西林',
-                    url: '/music/zaitanjiyi.mp3',
-                    cover: '/music/zaitanjiyi.jpg'
-                },
-                {
-                    name: '总有一天你会出现在我身边',
-                    artist: '棱镜乐队',
-                    url: '/music/zongyouyitiannihuichuxianzaiwoshenbian.mp3',
-                    cover: '/music/zongyouyitiannihuichuxianzaiwoshenbian.jpg'
-                },
-                {
-                    name: '字字句句 (Live版)',
-                    artist: '张碧晨 & 王赫野',
-                    url: '/music/zizijujuliveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '至少还有你',
-                    artist: '林忆莲',
-                    url: '/music/zhishaohaiyouni.mp3',
-                    cover: '/music/zhishaohaiyouni.jpg'
-                },
-                {
-                    name: '这是我一生中最勇敢的瞬间',
-                    artist: '棱镜乐队',
-                    url: '/music/zheshiwoyishengzhongzuiyonggandeshunjian.mp3',
-                    cover: '/music/zheshiwoyishengzhongzuiyonggandeshunjian.jpg'
-                },
-                {
-                    name: '这世界那么多人',
-                    artist: '莫文蔚',
-                    url: '/music/zheshijienameduoren.mp3',
-                    cover: '/music/zheshijienameduoren.jpg'
-                },
-                {
-                    name: '在加纳共和国离婚 (Live版)',
-                    artist: '杨坤 & 张碧晨',
-                    url: '/music/zaijianagongheguolihunliveban.mp3',
-                    cover: '/music/tianci.jpg'
-                },
-                {
-                    name: '晚风',
-                    artist: '7opy & BT07',
-                    url: '/music/wanfeng.mp3',
-                    cover: '/music/wanfeng.jpg'
-                },
-                {
-                    name: '岁月神偷',
-                    artist: '金玟岐',
-                    url: '/music/suiyueshentou.mp3',
-                    cover: '/music/suiyueshentou.jpg'
-                },
-                {
-                    name: '无与伦比的美丽',
-                    artist: '苏打绿',
-                    url: '/music/wuyulunbidemeili.mp3',
-                    cover: '/music/wuyulunbidemeili.jpg'
-                },
-                {
-                    name: '把回忆拼好给你',
-                    artist: '王贰浪',
-                    url: '/music/bahuiyipinhaogeini.mp3',
-                    cover: '/music/bahuiyipinhaogeini.jpg'
-                },
-                {
-                    name: '认真地老去',
-                    artist: '张希 & 曹方',
-                    url: '/music/renzhendelaoqu.mp3',
-                    cover: '/music/renzhendelaoqu.jpg'
-                },
-                {
-                    name: '飞云之下',
-                    artist: '韩红 & 林俊杰',
-                    url: '/music/feiyunzhixia.mp3',
-                    cover: '/music/feiyunzhixia.jpg'
-                },
-                {
-                    name: '小情歌',
-                    artist: '苏打绿',
-                    url: '/music/xiaoqinge.mp3',
-                    cover: '/music/xiaoqinge.jpg'
-                }
-            ]
-        });
-
+            
         
-        ap.on('play', function () {
-            document.getElementById('aplayer').classList.add('is-spinning');
-        });
-        ap.on('pause', function () {
-            document.getElementById('aplayer').classList.remove('is-spinning');
-        });
-
-        
-        const style = document.createElement('style');
-        style.innerHTML = `
-                /* 彻底隐藏歌单列表 */
-                .aplayer-list { display: none !important; }
-
-                /* 把封面切成圆形，并加上匀速旋转动画 */
-                .aplayer-pic {
-                    border-radius: 50% !important;
-                    background-size: cover !important;
-                    background-position: center !important;
-                    animation: rotate 12s linear infinite;
-                    animation-play-state: paused; /* 默认暂停 */
-                }
-
-                /* 关键修复：当监听到 is-spinning 状态时，强制动画运行！ */
-                #aplayer.is-spinning .aplayer-pic { animation-play-state: running !important; }
-
-                @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
-                /* 界面清理 */
-                .aplayer-info { border-bottom: none !important; }
-                .aplayer { background: var(--card-background); }
-            `;
-        document.head.appendChild(style);
-    </script>
-</aside>
+    </aside>
 
 
             <main class="main full-width">
@@ -1139,6 +519,595 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
+<div id="aplayer"></div>
+
+<script>
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: true,          
+        autoplay: false,
+        theme: '#5e72e4',
+        loop: 'all',
+        order: 'random',
+        preload: 'metadata',
+        listFolded: true,     
+        audio: [
+            {
+                name: '稻香',
+                artist: '周杰伦',
+                url: '/music/daoxiang.mp3',
+                cover: '/music/mojiezuo.jpg'
+            },
+            {
+                name: '搁浅',
+                artist: '周杰伦',
+                url: '/music/geqian.mp3',
+                cover: '/music/qilixiang.jpg'
+            },
+            {
+                name: '花海',
+                artist: '周杰伦',
+                url: '/music/huahai.mp3',
+                cover: '/music/mojiezuo.jpg'
+            },
+            {
+                name: '晴天',
+                artist: '周杰伦',
+                url: '/music/qingtian.mp3',
+                cover: '/music/yehuimei.jpg'
+            },
+            {
+                name: '说好不哭',
+                artist: '周杰伦 & 五月天阿信',
+                url: '/music/shuohaobuku.mp3',
+                cover: '/music/shuohaobuku.jpg'
+            },
+            {
+                name: '我是如此相信',
+                artist: '周杰伦',
+                url: '/music/woshirucixiangxin.mp3',
+                cover: '/music/zuiweidadezuopin.jpg'
+            },
+            {
+                name: '僕が死のうと思ったのは',
+                artist: '中島美嘉',
+                url: '/music/zhongdaomeijia.mp3',
+                cover: '/music/zhongdaomeijia.jpg'
+            },
+            {
+                name: '送你一朵小红花',
+                artist: '赵英俊',
+                url: '/music/songniyiduoxiaohonghua.mp3',
+                cover: '/music/songniyiduoxiaohonghua.jpg'
+            },
+            {
+                name: 'Fix You',
+                artist: 'Coldplay',
+                url: '/music/fixyou.mp3',
+                cover: '/music/fixyou.jpg'
+            },
+            {
+                name: '9 Crimes (ft Lloyd cover)',
+                artist: '于茸 & Lloyd',
+                url: '/music/9crimesftlloydcover.mp3',
+                cover: '/music/9crimesftlloydcover.jpg'
+            },
+            {
+                name: 'Closure',
+                artist: 'Hayd',
+                url: '/music/closure.mp3',
+                cover: '/music/hayd.jpg'
+            },
+            {
+                name: 'Head In The Clouds',
+                artist: 'Hayd',
+                url: '/music/headintheclouds.mp3',
+                cover: '/music/hayd.jpg'
+            },
+            {
+                name: 'DEAR JOHN',
+                artist: '比莉',
+                url: '/music/dearjohn.mp3',
+                cover: '/music/dearjohn.jpg'
+            },
+            {
+                name: 'exile',
+                artist: 'Taylor Swift & Bon Iver',
+                url: '/music/exile.mp3',
+                cover: '/music/exile.jpg'
+            },
+            {
+                name: 'Free Loop',
+                artist: 'Daniel Powter',
+                url: '/music/freeloop.mp3',
+                cover: '/music/freeloop.jpg'
+            },
+            {
+                name: 'Hello',
+                artist: 'Adele',
+                url: '/music/hello.mp3',
+                cover: '/music/hello.jpg'
+            },
+            {
+                name: 'I Miss You',
+                artist: '昭宥',
+                url: '/music/imissyou.mp3',
+                cover: '/music/imissyou.jpg'
+            },
+            {
+                name: 'It Is Well (Live)',
+                artist: 'Kristene DiMarco',
+                url: '/music/itiswelllive.mp3',
+                cover: '/music/itiswelllive.jpg'
+            },
+            {
+                name: 'Keep Rolling On',
+                artist: 'Luke Thompson',
+                url: '/music/keeprollingon.mp3',
+                cover: '/music/keeprollingon.jpg'
+            },
+            {
+                name: 'Keep Your Head Up Princess',
+                artist: 'Anson Seabra',
+                url: '/music/keepyourheadupprincess.mp3',
+                cover: '/music/keepyourheadupprincess.jpg'
+            },
+            {
+                name: 'Love Story',
+                artist: 'Taylor Swift',
+                url: '/music/lovestory.mp3',
+                cover: '/music/lovestory.jpg'
+            },
+            {
+                name: 'Perfect',
+                artist: 'Ed Sheeran',
+                url: '/music/perfect.mp3',
+                cover: '/music/perfect.jpg'
+            },
+            {
+                name: 'Round and round',
+                artist: 'Heize & 韩秀智',
+                url: '/music/roundandround.mp3',
+                cover: '/music/roundandround.jpg'
+            },
+            {
+                name: 'See You Again',
+                artist: 'Wiz Khalifa & Charlie Puth',
+                url: '/music/seeyouagain.mp3',
+                cover: '/music/seeyouagain.jpg'
+            },
+            {
+                name: 'Someone Like You',
+                artist: 'Adele',
+                url: '/music/someonelikeyou.mp3',
+                cover: '/music/someonelikeyou.jpg'
+            },
+            {
+                name: 'Something Just Like This',
+                artist: 'The Chainsmokers & Coldplay',
+                url: '/music/somethingjustlikethis.mp3',
+                cover: '/music/somethingjustlikethis.jpg'
+            },
+            {
+                name: 'Stay Alive',
+                artist: 'José González',
+                url: '/music/stayalive.mp3',
+                cover: '/music/stayalive.jpg'
+            },
+            {
+                name: 'Stay With Me',
+                artist: 'CHANYEOL & Punch',
+                url: '/music/staywithme.mp3',
+                cover: '/music/staywithme.jpg'
+            },
+            {
+                name: 'Supermarket Flowers',
+                artist: 'Ed Sheeran',
+                url: '/music/supermarketflowers.mp3',
+                cover: '/music/supermarketflowers.jpg'
+            },
+            {
+                name: 'The Nights',
+                artist: 'Avicii & Nicholas Furlong',
+                url: '/music/thenights.mp3',
+                cover: '/music/thenights.jpg'
+            },
+            {
+                name: 'When We Were Young',
+                artist: 'Adele',
+                url: '/music/whenwewereyoung.mp3',
+                cover: '/music/whenwewereyoung.jpg'
+            },
+            {
+                name: 'Winter is coming',
+                artist: '韩秀智',
+                url: '/music/winteriscoming.mp3',
+                cover: '/music/winteriscoming.jpg'
+            },
+            {
+                name: 'Without You',
+                artist: 'Avicii & Sandro Cavazza',
+                url: '/music/withoutyou.mp3',
+                cover: '/music/withoutyou.jpg'
+            },
+            {
+                name: 'Yellow',
+                artist: 'Coldplay',
+                url: '/music/yellow.mp3',
+                cover: '/music/yellow.jpg'
+            },
+            {
+                name: 'Young And Beautiful',
+                artist: 'Lana Del Rey',
+                url: '/music/youngandbeautiful.mp3',
+                cover: '/music/youngandbeautiful.jpg'
+            },
+            {
+                name: 'スパークル (movie ver.)',
+                artist: 'RADWIMPS',
+                url: '/music/supakuru.mp3',
+                cover: '/music/supakuru.jpg'
+            },
+            {
+                name: 'そばにいるね',
+                artist: '青山テルマ & SoulJa',
+                url: '/music/sobaniirune.mp3',
+                cover: '/music/sobaniirune.jpg'
+            },
+            {
+                name: 'なんでもないや (movie ver.)',
+                artist: 'RADWIMPS',
+                url: '/music/nandemonaiya.mp3',
+                cover: '/music/supakuru.jpg'
+            },
+            {
+                name: '爱河',
+                artist: 'ZaZaZsu砸砸苏',
+                url: '/music/aihe.mp3',
+                cover: '/music/aihe.jpg'
+            },
+            {
+                name: '爱在夏天',
+                artist: '告五人',
+                url: '/music/aizaixiatian.mp3',
+                cover: '/music/aizaixiatian.jpg'
+            },
+            {
+                name: '愛にできることはまだあるかい',
+                artist: 'RADWIMPS',
+                url: '/music/ainidekirukotohamadaaruka.mp3',
+                cover: '/music/ainidekirukotohamadaaruka.jpg'
+            },
+            {
+                name: '不为谁而作的歌',
+                artist: '林俊杰',
+                url: '/music/buweisheierzuodege.mp3',
+                cover: '/music/buweisheierzuodege.jpg'
+            },
+            {
+                name: '그리움의 언덕',
+                artist: 'April 2nd',
+                url: '/music/geuriumuieondeok.mp3',
+                cover: '/music/geuriumuieondeok.jpg'
+            },
+            {
+                name: '从未见过的海',
+                artist: '告五人',
+                url: '/music/congweijianguodehai.mp3',
+                cover: '/music/congweijianguodehai.jpg'
+            },
+            {
+                name: '簇拥烈日的花',
+                artist: 'Morerare & 迟里乌布',
+                url: '/music/cuyonglieridehua.mp3',
+                cover: '/music/cuyonglieridehua.jpg'
+            },
+            {
+                name: '岛屿',
+                artist: '棱镜乐队',
+                url: '/music/daoyu.mp3',
+                cover: '/music/daoyu.jpg'
+            },
+            {
+                name: '红色高跟鞋',
+                artist: '蔡健雅',
+                url: '/music/hongsegaogenxie.mp3',
+                cover: '/music/hongsegaogenxie.jpg'
+            },
+            {
+                name: '后来',
+                artist: '刘若英',
+                url: '/music/houlai.mp3',
+                cover: '/music/houlai.jpg'
+            },
+            {
+                name: '经济舱 (Live)',
+                artist: 'KAFE_HU咖啡胡',
+                url: '/music/jingjicanglive.mp3',
+                cover: '/music/jingjicanglive.jpg'
+            },
+            {
+                name: '可惜没如果',
+                artist: '林俊杰',
+                url: '/music/keximeiruguo.mp3',
+                cover: '/music/keximeiruguo.jpg'
+            },
+            {
+                name: '克林',
+                artist: '棱镜乐队',
+                url: '/music/kelin.mp3',
+                cover: '/music/kelin.jpg'
+            },
+            {
+                name: '浪子回头',
+                artist: '茄子蛋',
+                url: '/music/langzihuitou.mp3',
+                cover: '/music/langzihuitou.jpg'
+            },
+            {
+                name: '老人と海',
+                artist: 'ヨルシカ',
+                url: '/music/roujintoumi.mp3',
+                cover: '/music/roujintoumi.jpg'
+            },
+            {
+                name: '命运 (Live版)',
+                artist: '汪苏泷 & 张碧晨',
+                url: '/music/mingyunliveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '暮色回响',
+                artist: '吉星出租',
+                url: '/music/musehuixiang.mp3',
+                cover: '/music/musehuixiang.jpg'
+            },
+            {
+                name: '暮色回响 (Live版)',
+                artist: '张碧晨 & 李承铉',
+                url: '/music/musehuixiangliveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '那些你很冒险的梦',
+                artist: '林俊杰',
+                url: '/music/naxienihenmaoxiandemeng.mp3',
+                cover: '/music/naxienihenmaoxiandemeng.jpg'
+            },
+            {
+                name: '披星戴月的想你',
+                artist: '告五人',
+                url: '/music/pixingdaiyuedexiangni.mp3',
+                cover: '/music/pixingdaiyuedexiangni.jpg'
+            },
+            {
+                name: '平凡之路',
+                artist: '朴树',
+                url: '/music/pingfanzhilu.mp3',
+                cover: '/music/pingfanzhilu.jpg'
+            },
+            {
+                name: '起风了',
+                artist: '买辣椒也用券',
+                url: '/music/qifengle.mp3',
+                cover: '/music/qifengle.jpg'
+            },
+            {
+                name: '晴',
+                artist: '汪苏泷',
+                url: '/music/qing.mp3',
+                cover: '/music/qing.jpg'
+            },
+            {
+                name: '如果爱忘了 (live)',
+                artist: '汪苏泷 & 单依纯',
+                url: '/music/ruguoaiwanglelive.mp3',
+                cover: '/music/shengshengbuxi.jpg'
+            },
+            {
+                name: '如果可以 (Live版)',
+                artist: '汪苏泷 & 徐佳莹',
+                url: '/music/ruguokeyiliveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '如果有来生',
+                artist: '谭维维',
+                url: '/music/ruguoyoulaisheng.mp3',
+                cover: '/music/ruguoyoulaisheng.jpg'
+            },
+            {
+                name: '若月亮没来 (Live版)',
+                artist: '杨宗纬 & 宝石Gem & 王宇宙Leto',
+                url: '/music/ruoyueliangmeilailiveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '谁',
+                artist: '曲肖冰',
+                url: '/music/shui.mp3',
+                cover: '/music/shui.jpg'
+            },
+            {
+                name: '生活在别处的你 Another me',
+                artist: '毛不易 & 中島美嘉',
+                url: '/music/shenghuozaibiechudenianotherme.mp3',
+                cover: '/music/shenghuozaibiechudenianotherme.jpg'
+            },
+            {
+                name: '推开世界的门',
+                artist: '杨乃文',
+                url: '/music/tuikaishijiedemen.mp3',
+                cover: '/music/tuikaishijiedemen.jpg'
+            },
+            {
+                name: '未末 (写给00后致以童年)',
+                artist: 'SwevenG骨子哥',
+                url: '/music/weimoxiegei00houzhiyitongnian.mp3',
+                cover: '/music/weimoxiegei00houzhiyitongnian.jpg'
+            },
+            {
+                name: '无法拥有的人要好好道别',
+                artist: '棱镜乐队',
+                url: '/music/wufayongyouderenyaohaohaodaobie.mp3',
+                cover: '/music/daoyu.jpg'
+            },
+            {
+                name: '无名的人',
+                artist: '毛不易',
+                url: '/music/wumingderen.mp3',
+                cover: '/music/wumingderen.jpg'
+            },
+            {
+                name: '鲜花',
+                artist: '回春丹',
+                url: '/music/xianhua.mp3',
+                cover: '/music/xianhua.jpg'
+            },
+            {
+                name: '向云端',
+                artist: '小霞 & 海洋Bo',
+                url: '/music/xiangyunduan.mp3',
+                cover: '/music/xiangyunduan.jpg'
+            },
+            {
+                name: '像我这样的人',
+                artist: '毛不易',
+                url: '/music/xiangwozheyangderen.mp3',
+                cover: '/music/xiangwozheyangderen.jpg'
+            },
+            {
+                name: '小霞 (live)',
+                artist: '黄绮珊',
+                url: '/music/xiaoxialive.mp3',
+                cover: '/music/shengshengbuxi.jpg'
+            },
+            {
+                name: '무제(無題) (Untitled, 2014)',
+                artist: 'G-DRAGON',
+                url: '/music/mujeuntitled2014.mp3',
+                cover: '/music/mujeuntitled2014.jpg'
+            },
+            {
+                name: '夜空中最亮的星',
+                artist: '逃跑计划',
+                url: '/music/yekongzhongzuiliangdexing.mp3',
+                cover: '/music/escapeplan.jpg'
+            },
+            {
+                name: '一万次悲伤',
+                artist: '逃跑计划',
+                url: '/music/yiwancibeishang.mp3',
+                cover: '/music/escapeplan.jpg'
+            },
+            {
+                name: '呓语',
+                artist: '毛不易',
+                url: '/music/yiyu.mp3',
+                cover: '/music/yiyu.jpg'
+            },
+            {
+                name: '미안해 미워해 사랑해',
+                artist: 'Crush',
+                url: '/music/mianhaemiwohaesaranghae.mp3',
+                cover: '/music/mianhaemiwohaesaranghae.jpg'
+            },
+            {
+                name: '再谈记忆',
+                artist: '盘尼西林',
+                url: '/music/zaitanjiyi.mp3',
+                cover: '/music/zaitanjiyi.jpg'
+            },
+            {
+                name: '总有一天你会出现在我身边',
+                artist: '棱镜乐队',
+                url: '/music/zongyouyitiannihuichuxianzaiwoshenbian.mp3',
+                cover: '/music/zongyouyitiannihuichuxianzaiwoshenbian.jpg'
+            },
+            {
+                name: '字字句句 (Live版)',
+                artist: '张碧晨 & 王赫野',
+                url: '/music/zizijujuliveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '至少还有你',
+                artist: '林忆莲',
+                url: '/music/zhishaohaiyouni.mp3',
+                cover: '/music/zhishaohaiyouni.jpg'
+            },
+            {
+                name: '这是我一生中最勇敢的瞬间',
+                artist: '棱镜乐队',
+                url: '/music/zheshiwoyishengzhongzuiyonggandeshunjian.mp3',
+                cover: '/music/zheshiwoyishengzhongzuiyonggandeshunjian.jpg'
+            },
+            {
+                name: '这世界那么多人',
+                artist: '莫文蔚',
+                url: '/music/zheshijienameduoren.mp3',
+                cover: '/music/zheshijienameduoren.jpg'
+            },
+            {
+                name: '在加纳共和国离婚 (Live版)',
+                artist: '杨坤 & 张碧晨',
+                url: '/music/zaijianagongheguolihunliveban.mp3',
+                cover: '/music/tianci.jpg'
+            },
+            {
+                name: '晚风',
+                artist: '7opy & BT07',
+                url: '/music/wanfeng.mp3',
+                cover: '/music/wanfeng.jpg'
+            },
+            {
+                name: '岁月神偷',
+                artist: '金玟岐',
+                url: '/music/suiyueshentou.mp3',
+                cover: '/music/suiyueshentou.jpg'
+            },
+            {
+                name: '无与伦比的美丽',
+                artist: '苏打绿',
+                url: '/music/wuyulunbidemeili.mp3',
+                cover: '/music/wuyulunbidemeili.jpg'
+            },
+            {
+                name: '把回忆拼好给你',
+                artist: '王贰浪',
+                url: '/music/bahuiyipinhaogeini.mp3',
+                cover: '/music/bahuiyipinhaogeini.jpg'
+            },
+            {
+                name: '认真地老去',
+                artist: '张希 & 曹方',
+                url: '/music/renzhendelaoqu.mp3',
+                cover: '/music/renzhendelaoqu.jpg'
+            },
+            {
+                name: '飞云之下',
+                artist: '韩红 & 林俊杰',
+                url: '/music/feiyunzhixia.mp3',
+                cover: '/music/feiyunzhixia.jpg'
+            },
+            {
+                name: '小情歌',
+                artist: '苏打绿',
+                url: '/music/xiaoqinge.mp3',
+                cover: '/music/xiaoqinge.jpg'
+            }
+        ]
+    });
+
+    
+    const style = document.createElement('style');
+    style.innerHTML = `
+        .aplayer-list { display: none !important; }
+    `;
+    document.head.appendChild(style);
+</script>
     </body>
 </html>
