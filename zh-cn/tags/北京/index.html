@@ -368,6 +368,11 @@
 
     <section class="widget" style="padding: 0; background: transparent; box-shadow: none;">
         <div id="aplayer" style="border-radius: 10px; overflow: hidden; box-shadow: var(--shadow-l2);"></div>
+
+        <div style="display: flex; justify-content: center; gap: 40px; margin-top: 15px; padding-bottom: 5px;">
+            <button onclick="ap.skipBack()" style="background: none; border: none; cursor: pointer; font-size: 1.5rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" title="上一首">⏮️</button>
+            <button onclick="ap.skipForward()" style="background: none; border: none; cursor: pointer; font-size: 1.5rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" title="下一首">⏭️</button>
+        </div>
     </section>
 
     <script>
@@ -375,9 +380,9 @@
             container: document.getElementById('aplayer'),
             mini: false,
             autoplay: false,
-            theme: '#5e72e4', 
+            theme: '#5e72e4',
             loop: 'all',
-            order: 'random',  
+            order: 'random',
             preload: 'metadata',
             audio: [
                 {
@@ -948,15 +953,33 @@
         });
 
         
+        ap.on('play', function () {
+            document.getElementById('aplayer').classList.add('is-spinning');
+        });
+        ap.on('pause', function () {
+            document.getElementById('aplayer').classList.remove('is-spinning');
+        });
+
+        
         const style = document.createElement('style');
         style.innerHTML = `
                 /* 彻底隐藏歌单列表 */
                 .aplayer-list { display: none !important; }
+
                 /* 把封面切成圆形，并加上匀速旋转动画 */
-                .aplayer-pic { border-radius: 50% !important; background-size: cover !important; background-position: center !important; animation: rotate 12s linear infinite; animation-play-state: paused; }
-                /* 只有在播放状态下才转动 */
-                .aplayer.aplayer-playing .aplayer-pic { animation-play-state: running; }
+                .aplayer-pic {
+                    border-radius: 50% !important;
+                    background-size: cover !important;
+                    background-position: center !important;
+                    animation: rotate 12s linear infinite;
+                    animation-play-state: paused; /* 默认暂停 */
+                }
+
+                /* 关键修复：当监听到 is-spinning 状态时，强制动画运行！ */
+                #aplayer.is-spinning .aplayer-pic { animation-play-state: running !important; }
+
                 @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
                 /* 界面清理 */
                 .aplayer-info { border-bottom: none !important; }
                 .aplayer { background: var(--card-background); }
