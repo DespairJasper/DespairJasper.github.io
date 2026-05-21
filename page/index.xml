@@ -1,73 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Hugo Chu</title>
-        <link>https://www.despairjasper.com/page/</link>
-        <description>Recent content in Pages on Hugo Chu</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Despair-Jasper</copyright>
-        <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About Me</title>
-        <link>https://www.despairjasper.com/about-me/</link>
-        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.despairjasper.com/about-me/</guid>
-        <description>&lt;p&gt;I am an undergraduate economics student at China University of Petroleum (Beijing), and I studied as an exchange student at Central University of Finance and Economics during my sophomore year. My time at CUFE profoundly shaped my academic path, offering the inclusive and rigorous environment where my intellectual curiosity genuinely flourished.&lt;/p&gt;
-&lt;p&gt;My research lies at the intersection of political economy, development economics, and industrial organization. Stemming from my early childhood observations of the world around me, these interests have evolved into a core academic inquiry: &lt;strong&gt;how do micro-level actors strategically respond to institutional frictions and policy interventions?&lt;/strong&gt; Influenced by the Austrian School of Economics and the work of Xiaokai Yang, I study the ongoing tension between rigid institutional designs and the spontaneous order of the market.&lt;/p&gt;
-&lt;p&gt;Empirically, I move beyond conventional datasets, leveraging unique micro-administrative records, geospatial data, and unstructured text to identify hidden strategic behaviors. Currently, I am working on integrating experimental economics into my research framework to more precisely capture actors&amp;rsquo; true preferences and decision-making dynamics. Through these tools, I aim to unpack the unintended consequences of policy designs and understand how grassroots survival strategies shape the long-term trajectory of transitional economies.&lt;/p&gt;
-&lt;h3 id=&#34;publications&#34;&gt;Publications
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.frl.2025.108932&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;From shadows to spotlight: How big data bureaus unveil corporate R&amp;amp;D gaming?&lt;/a&gt;&lt;br&gt;
-Yang, X., Zhang, X., Zang, H., Chu, H., &amp;amp; Feng, C. (2025). &lt;em&gt;Finance Research Letters&lt;/em&gt;, 108932. (JCR 1, ABS2)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;working-papers&#34;&gt;Working Papers
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/Home_is_Peace_not_a_Place.pdf&#34; &gt;Home is peace, not a place: How does urban storytelling impact talent&amp;rsquo;s &amp;ldquo;vote with their feet&amp;rdquo;?&lt;/a&gt;&lt;br&gt;
-With Xiwei Men and Jiaxiang Wei. Submitted to the 8th National Development Youth Forum (NSD, Peking University)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms&lt;/a&gt;&lt;br&gt;
-With Dr. Hong Zang, Prof. Chao Feng, and Xiaoyin Yang. With Editor at &lt;em&gt;Journal of Business Ethics&lt;/em&gt; (JCR 1, ABS3, FT50)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/Anticorruption1.pdf&#34; &gt;Washing the Stain: Punitive Decoupling and the Sacrificial Cost for Connected Firms&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng, Dr. Xinmin Zhang, and Prof. Miao Wang. With Editor at &lt;em&gt;The Economic Journal&lt;/em&gt; (JCR 1, ABS4*)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Weathering the tempest: Natural disasters and firm entry&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Economic Geography&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Why Do Stricter Policies Lead to More Corporate Greenwashing? An Explanation Based on Four-Party Game Theory&lt;/a&gt;&lt;br&gt;
-With Songhao Guo, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Renewable Energy&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Transferred Social Responsibility: Government Disaster Bailout and Corporate Philanthropy&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng and Prof. Miao Wang. Under Review at &lt;em&gt;Journal of Development Economics&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ultimately, research is less about crafting a perfect resume and more about feeding a genuine curiosity. Not every paper will change the world. Still, uncovering a small piece of the truth is rewarding enough. Enjoy the process and do not let the academic grind wear you down.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://www.despairjasper.com/archives/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.despairjasper.com/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://www.despairjasper.com/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.despairjasper.com/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Hugo Chu</title><link>https://www.despairjasper.com/page/</link><description>Recent content in Pages on Hugo Chu</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Despair-Jasper</copyright><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://www.despairjasper.com/about-me/</link><pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/about-me/</guid><description>&lt;p>I am an undergraduate economics student at China University of Petroleum (Beijing), and I studied as an exchange student at Central University of Finance and Economics during my sophomore year. My time at CUFE profoundly shaped my academic path, offering the inclusive and rigorous environment where my intellectual curiosity genuinely flourished.&lt;/p>
+&lt;p>My research lies at the intersection of political economy, development economics, and industrial organization. Stemming from my early childhood observations of the world around me, these interests have evolved into a core academic inquiry: &lt;strong>how do micro-level actors strategically respond to institutional frictions and policy interventions?&lt;/strong> Influenced by the Austrian School of Economics and the work of Xiaokai Yang, I study the ongoing tension between rigid institutional designs and the spontaneous order of the market.&lt;/p>
+&lt;p>Empirically, I move beyond conventional datasets, leveraging unique micro-administrative records, geospatial data, and unstructured text to identify hidden strategic behaviors. Currently, I am working on integrating experimental economics into my research framework to more precisely capture actors&amp;rsquo; true preferences and decision-making dynamics. Through these tools, I aim to unpack the unintended consequences of policy designs and understand how grassroots survival strategies shape the long-term trajectory of transitional economies.&lt;/p>
+&lt;h3 id="publications">Publications
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://doi.org/10.1016/j.frl.2025.108932" target="_blank" rel="noopener"
+>From shadows to spotlight: How big data bureaus unveil corporate R&amp;amp;D gaming?&lt;/a>&lt;br>
+Yang, X., Zhang, X., Zang, H., Chu, H., &amp;amp; Feng, C. (2025). &lt;em>Finance Research Letters&lt;/em>, 108932. (JCR 1, ABS2)&lt;/li>
+&lt;/ul>
+&lt;h3 id="working-papers">Working Papers
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.despairjasper.com/papers/Home_is_Peace_not_a_Place.pdf" >Home is peace, not a place: How does urban storytelling impact talent&amp;rsquo;s &amp;ldquo;vote with their feet&amp;rdquo;?&lt;/a>&lt;br>
+With Xiwei Men and Jiaxiang Wei. Submitted to the 8th National Development Youth Forum (NSD, Peking University)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="#" >Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms&lt;/a>&lt;br>
+With Dr. Hong Zang, Prof. Chao Feng, and Xiaoyin Yang. With Editor at &lt;em>Journal of Business Ethics&lt;/em> (JCR 1, ABS3, FT50)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.despairjasper.com/papers/Anticorruption1.pdf" >Washing the Stain: Punitive Decoupling and the Sacrificial Cost for Connected Firms&lt;/a>&lt;br>
+With Prof. Chao Feng, Dr. Xinmin Zhang, and Prof. Miao Wang. With Editor at &lt;em>The Economic Journal&lt;/em> (JCR 1, ABS4*)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="#" >Weathering the tempest: Natural disasters and firm entry&lt;/a>&lt;br>
+With Prof. Chao Feng, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em>Economic Geography&lt;/em> (JCR 1, ABS3)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="#" >Why Do Stricter Policies Lead to More Corporate Greenwashing? An Explanation Based on Four-Party Game Theory&lt;/a>&lt;br>
+With Songhao Guo, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em>Renewable Energy&lt;/em> (JCR 1, ABS3)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="#" >Transferred Social Responsibility: Government Disaster Bailout and Corporate Philanthropy&lt;/a>&lt;br>
+With Prof. Chao Feng and Prof. Miao Wang. Under Review at &lt;em>Journal of Development Economics&lt;/em> (JCR 1, ABS3)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Ultimately, research is less about crafting a perfect resume and more about feeding a genuine curiosity. Not every paper will change the world. Still, uncovering a small piece of the truth is rewarding enough. Enjoy the process and do not let the academic grind wear you down.&lt;/p></description></item><item><title>Archives</title><link>https://www.despairjasper.com/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/archives/</guid><description/></item><item><title>Our Lifetime</title><link>https://www.despairjasper.com/our-lifetime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/our-lifetime/</guid><description/></item><item><title>Search</title><link>https://www.despairjasper.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/search/</guid><description/></item></channel></rss>
