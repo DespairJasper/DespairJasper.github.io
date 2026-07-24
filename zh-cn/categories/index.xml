@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on 褚洪聪</title><link>https://www.despairjasper.com/zh-cn/categories/</link><description>Recent content in Categories on 褚洪聪</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Despair-Jasper</copyright><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/zh-cn/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>这就是生活</title><link>https://www.despairjasper.com/zh-cn/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/</link><pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/zh-cn/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/</guid><description/></item><item><title>户外</title><link>https://www.despairjasper.com/zh-cn/categories/%E6%88%B7%E5%A4%96/</link><pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.despairjasper.com/zh-cn/categories/%E6%88%B7%E5%A4%96/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 褚洪聪</title>
+        <link>https://www.despairjasper.com/zh-cn/categories/</link>
+        <description>Recent content in Categories on 褚洪聪</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Despair-Jasper</copyright>
+        <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2026</title>
+        <link>https://www.despairjasper.com/zh-cn/categories/2026/</link>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/zh-cn/categories/2026/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>这就是生活</title>
+        <link>https://www.despairjasper.com/zh-cn/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/</link>
+        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/zh-cn/categories/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>户外</title>
+        <link>https://www.despairjasper.com/zh-cn/categories/%E6%88%B7%E5%A4%96/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/zh-cn/categories/%E6%88%B7%E5%A4%96/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
