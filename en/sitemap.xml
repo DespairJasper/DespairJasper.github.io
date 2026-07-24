@@ -15,19 +15,6 @@
                 href="https://www.despairjasper.com/"
                 />
   </url><url>
-    <loc>https://www.despairjasper.com/categories/2026/</loc>
-    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/categories/2026/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/categories/2026/"
-                />
-  </url><url>
     <loc>https://www.despairjasper.com/categories/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,7 +28,7 @@
                 href="https://www.despairjasper.com/categories/"
                 />
   </url><url>
-    <loc>https://www.despairjasper.com/tags/green-river/</loc>
+    <loc>https://www.despairjasper.com/categories/green-river/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/post/</loc>
@@ -56,6 +43,9 @@
                 hreflang="en"
                 href="https://www.despairjasper.com/post/"
                 />
+  </url><url>
+    <loc>https://www.despairjasper.com/tags/qinghai/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/p/running-regressions-on-the-plateau/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
@@ -82,6 +72,12 @@
                 hreflang="en"
                 href="https://www.despairjasper.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.despairjasper.com/tags/volunteering/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.despairjasper.com/tags/yangtze-river/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/tags/100-day-marathon-plan/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>

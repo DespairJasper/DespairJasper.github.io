@@ -15,19 +15,6 @@
                 href="https://www.despairjasper.com/zh-cn/"
                 />
   </url><url>
-    <loc>https://www.despairjasper.com/zh-cn/categories/2026/</loc>
-    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/categories/2026/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/categories/2026/"
-                />
-  </url><url>
     <loc>https://www.despairjasper.com/zh-cn/categories/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -67,7 +54,10 @@
                 href="https://www.despairjasper.com/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://www.despairjasper.com/zh-cn/tags/%E7%BB%BF%E8%89%B2%E6%B1%9F%E6%B2%B3/</loc>
+    <loc>https://www.despairjasper.com/zh-cn/categories/%E7%BB%BF%E8%89%B2%E6%B1%9F%E6%B2%B3/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/tags/%E9%9D%92%E6%B5%B7/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/zh-cn/p/%E5%9C%A8%E9%9D%92%E8%97%8F%E8%B7%91%E5%9B%9E%E5%BD%92/</loc>
@@ -82,6 +72,12 @@
                 hreflang="zh-cn"
                 href="https://www.despairjasper.com/zh-cn/p/%E5%9C%A8%E9%9D%92%E8%97%8F%E8%B7%91%E5%9B%9E%E5%BD%92/"
                 />
+  </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/tags/%E9%95%BF%E6%B1%9F/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/tags/%E5%BF%97%E6%84%BF/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/zh-cn/page/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
