@@ -301,5 +301,74 @@
       }
     ],
     "artistChinese": "孙燕姿\n蔡健雅"
+  },
+  {
+    "id": "huaitianqi",
+    "title": "坏天气",
+    "artist": "孙燕姿",
+    "src": "/music/huaitianqi.mp3",
+    "cover": "/music/covers/huaitianqi.jpg",
+    "lrc": "/music/lyrics/huaitianqi.lrc",
+    "album": "我要的幸福",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      147,
+      140,
+      72
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "dangdongyejiannuan",
+    "title": "当冬夜渐暖",
+    "artist": "孙燕姿",
+    "src": "/music/dangdongyejiannuan.mp3",
+    "cover": "/music/covers/dangdongyejiannuan.jpg",
+    "lrc": "/music/lyrics/dangdongyejiannuan.lrc",
+    "album": "是时候",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      96,
+      96,
+      96
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "yurendeguodu",
+    "title": "愚人的国度",
+    "artist": "孙燕姿",
+    "src": "/music/yurendeguodu.mp3",
+    "cover": "/music/covers/yurendeguodu.jpg",
+    "lrc": "/music/lyrics/yurendeguodu.lrc",
+    "album": "是时候",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      96,
+      96,
+      96
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
   }
 ]
