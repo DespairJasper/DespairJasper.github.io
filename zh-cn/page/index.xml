@@ -7,10 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Despair-Jasper</copyright>
-        <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>致永远年轻的你</title>
+        <link>https://www.despairjasper.com/zh-cn/to-you-forever-young/</link>
+        <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/zh-cn/to-you-forever-young/</guid>
+        <description>&lt;p&gt;我们正活在一个前所未有的时代。AI 对生活、工作和知识生产的冲击才刚刚开始。过去要花几个月才能做出的东西，如今一个人借助合适的工具就能动手。能做的事突然多了，先想清楚自己究竟想做什么，反而更重要。&lt;/p&gt;
+&lt;p&gt;说到工具，我会推荐每个人用 MacBook 做日常主力机。至少在我自己的 AI 工作流里，macOS 和 M 系列芯片的组合至今无可撼动。Codex、Claude Code、Google Antigravity 这样的 agent 也值得真正上手，而不只是看别人演示。先从能免费用的部分入手；真要花钱，我愿意为更强的模型和充足的使用额度付费。在我的工作里，这些工具带来的效率提升近乎指数级。现阶段，与其折腾本地部署，我更愿意直接用闭源厂商持续更新的模型服务，省钱，也省时间。&lt;/p&gt;
+&lt;p&gt;工具越强，越要自己决定把注意力放在哪里。无论你学什么、读到什么学历，我都建议你读一遍 &lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/attention-is-all-you-need.pdf&#34; &gt;《Attention Is All You Need》&lt;/a&gt;。不必先成为 AI 研究者才能从中受益。那篇论文里关于注意力分配的直觉，常让我想到其他领域的问题：面对有限资源，究竟该看见什么、忽略什么？我也尽量自己选择信息入口：看 GitHub，用美区 Apple ID 听 Apple Podcasts，也看 X、YouTube、哔哩哔哩和小红书。别只等着别人把世界筛选好，再递到你眼前。&lt;/p&gt;
+&lt;p&gt;短视频出现以后，专注力越来越稀缺，论文的标题听起来也有了另一层意思。&lt;strong&gt;我不认为 AI 会让人与人的差距普遍缩小：在同一领域内，它可能缩小同一层次的人在工具和执行上的差距，却会拉大不同层次之间的距离。&lt;/strong&gt; 真正有品味的人，能借它把天马行空的想法做出来。我也只是其中一个小小的例子。&lt;strong&gt;AI 能帮你把事做快，却不能替你判断什么事值得做。&lt;/strong&gt; 想在一个领域里更进一步，先把品味练上去。它确实看天赋，也能靠读好作品、反复动手、听得进批评，慢慢养出来。&lt;/p&gt;
+&lt;p&gt;顺嘴说句科研上的事：如果真想在这条路上走远，我的建议有点偏执：只把国际公认的顶级期刊当作投稿目标。研究问题最好从亲身感受过的生活里长出来，不要只盯着现有文献还剩哪条缝。在顶级期刊的审稿过程中与编辑、审稿人对话，再和世界各地同样有野心的研究者竞争，会不断磨自己的眼光。&lt;strong&gt;注意：顶刊不是评级表封出来的，而是一个领域的同行真正认可的。&lt;/strong&gt; 学术圈有一个越来越明确的共识：评价研究者应看代表作，而不是水刊论文堆出的篇数。未来二十年，无论国内国外，这个取向只会更鲜明。&lt;/p&gt;
+&lt;p&gt;我也建议多听 seminar 上的报告。台上可能是学界泰斗、rising star，也可能是默默无闻的研究者；无论是谁，总有值得学的地方。在一个领域钻得越深，越觉得自己知道得实在太少；一旦狂妄起来，许多本可以学到的东西就听不进去了。&lt;/p&gt;
+&lt;p&gt;和世界各地的人对话，英语就不能只当成一门考试科目。&lt;strong&gt;英语值得终身投入。&lt;/strong&gt; 钱和精力花在上面，不会亏。其他语言当然也值得学，但英语仍是最重要的一门。学外语时，尽量到说这种语言的地方走走。外面究竟有没有下雨，走出去才知道；亲眼看过的地方，也会留下书本给不了的记忆。&lt;/p&gt;
+&lt;p&gt;语言要学下去，研究要做下去，靠的都是日复一日的专注与执行。和同层次的人拉开距离，也靠这两样。&lt;strong&gt;执行力可以借助 AI，专注力只能自己守住。&lt;/strong&gt; 身体和精神的健康同样要守住，否则再强的执行力都撑不了太久。去运动，什么方式都好。出门看风景，我更愿意走进自然安静地看；新疆那么美，实在不必只赶着去一个个网红打卡点。用笔写日记，听自己喜欢的歌，看看韩剧，再亲手做几顿饭。做饭尤其有趣。这些事让我有力气把路走长。&lt;/p&gt;
+&lt;p&gt;时间和体力有限，大学里那些看上去很“有用”的忙碌，我都建议避开：社团、学生会和班委职务、走过场的班级活动，还有一场接一场的比赛。哪怕某项比赛在官方名单上的级别很高，也未必比你真正热爱的事重要。大学里的时间不能重来，别把它耗在一场场自己并不在乎的活动上。真正喜欢什么，得自己去做才知道。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最好的工作与委任或学位无关。最好的工作，其实是终身学习者在自由市场中的创造性表达。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;选择这样的路，未必人人赞同。当周围的人都在攒头衔、拼排名，迷茫可以，别因此把真诚和热爱也交出去。守住它们，也会遇见原本遇不到的人和机会。大胆试一条你想走、却和别人不太一样的路。前辈和长辈的经验可以听，但他们不在你今天所处的环境里，难免有信息差；选择权终究在你手里。&lt;/p&gt;
+&lt;p&gt;大学三年多以来，我最正确、也最幸运的三个决定是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;入学半年多，就全身心投入自己热爱的领域扎根。&lt;/li&gt;
+&lt;li&gt;选择去中央财经大学交流。&lt;/li&gt;
+&lt;li&gt;放弃外校保研的预推免资格。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我还在往前走。路有些泥泞，转身就是悬崖。好在一直有人同行。&lt;/p&gt;
+&lt;p&gt;最后，留四份我愿意反复翻的文字。没必要按顺序读，眼下哪个问题最缠着你，就从哪一份开始：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/grit.pdf&#34; &gt;《Grit》&lt;/a&gt;：热情退潮以后，靠什么继续做一件事？&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-china-escaped-the-poverty-trap.pdf&#34; &gt;《How China Escaped the Poverty Trap》&lt;/a&gt;：研究发展与制度的人，值得借它换一种提问方式。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/shanghai-jiao-tong-university-survival-guide.pdf&#34; &gt;《上海交通大学生存手册》&lt;/a&gt;：如果还在大学，把它当成对校园里那些默认玩法的一次反问。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/&#34; &gt;《How to fix your entire life in 1 day》&lt;/a&gt;：哪天觉得自己又被惯性推着走，就停一天，问问自己究竟想去哪儿。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>关于我</title>
         <link>https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
-        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
         
         <guid>https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
         <description>&lt;p&gt;我是经济学专业的本科生，目前就读于中国石油大学（北京），大二期间曾赴中央财经大学交流。在中财的学习经历深刻影响了我的学术轨迹，那里包容而严谨的氛围，让我的求知欲真正得以沉淀与绽放。&lt;/p&gt;
@@ -109,32 +142,6 @@ Logbook System and Database Support · Jul–Oct 2026.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;
-&lt;h2 id=&#34;致永远年轻的你&#34;&gt;致永远年轻的你
-&lt;/h2&gt;&lt;p&gt;我们正活在一个前所未有的时代。AI 对生活、工作和知识生产的冲击才刚刚开始。过去要花几个月才能做出的东西，如今一个人借助合适的工具就能动手。能做的事突然多了，先想清楚自己究竟想做什么，反而更重要。&lt;/p&gt;
-&lt;p&gt;说到工具，我会推荐每个人用 MacBook 做日常主力机。至少在我自己的 AI 工作流里，macOS 和 M 系列芯片的组合至今无可撼动。Codex、Claude Code、Google Antigravity 这样的 agent 也值得真正上手，而不只是看别人演示。先从能免费用的部分入手；真要花钱，我愿意为更强的模型和充足的使用额度付费。在我的工作里，这些工具带来的效率提升近乎指数级。现阶段，与其折腾本地部署，我更愿意直接用闭源厂商持续更新的模型服务，省钱，也省时间。&lt;/p&gt;
-&lt;p&gt;工具越强，越要自己决定把注意力放在哪里。无论你学什么、读到什么学历，我都建议你读一遍 &lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/attention-is-all-you-need.pdf&#34; &gt;《Attention Is All You Need》&lt;/a&gt;。不必先成为 AI 研究者才能从中受益。那篇论文里关于注意力分配的直觉，常让我想到其他领域的问题：面对有限资源，究竟该看见什么、忽略什么？我也尽量自己选择信息入口：看 GitHub，用美区 Apple ID 听 Apple Podcasts，也看 X、YouTube、哔哩哔哩和小红书。别只等着别人把世界筛选好，再递到你眼前。&lt;/p&gt;
-&lt;p&gt;短视频出现以后，专注力越来越稀缺，论文的标题听起来也有了另一层意思。&lt;strong&gt;我不认为 AI 会让人与人的差距普遍缩小：在同一领域内，它可能缩小同一层次的人在工具和执行上的差距，却会拉大不同层次之间的距离。&lt;/strong&gt; 真正有品味的人，能借它把天马行空的想法做出来。我也只是其中一个小小的例子。&lt;strong&gt;AI 能帮你把事做快，却不能替你判断什么事值得做。&lt;/strong&gt; 想在一个领域里更进一步，先把品味练上去。它确实看天赋，也能靠读好作品、反复动手、听得进批评，慢慢养出来。&lt;/p&gt;
-&lt;p&gt;顺嘴说句科研上的事：如果真想在这条路上走远，我的建议有点偏执：只把国际公认的顶级期刊当作投稿目标。研究问题最好从亲身感受过的生活里长出来，不要只盯着现有文献还剩哪条缝。在顶级期刊的审稿过程中与编辑、审稿人对话，再和世界各地同样有野心的研究者竞争，会不断磨自己的眼光。&lt;strong&gt;注意：顶刊不是评级表封出来的，而是一个领域的同行真正认可的。&lt;/strong&gt; 学术圈有一个越来越明确的共识：评价研究者应看代表作，而不是水刊论文堆出的篇数。未来二十年，无论国内国外，这个取向只会更鲜明。&lt;/p&gt;
-&lt;p&gt;我也建议多听 seminar 上的报告。台上可能是学界泰斗、rising star，也可能是默默无闻的研究者；无论是谁，总有值得学的地方。在一个领域钻得越深，越觉得自己知道得实在太少；一旦狂妄起来，许多本可以学到的东西就听不进去了。&lt;/p&gt;
-&lt;p&gt;和世界各地的人对话，英语就不能只当成一门考试科目。&lt;strong&gt;英语值得终身投入。&lt;/strong&gt; 钱和精力花在上面，不会亏。其他语言当然也值得学，但英语仍是最重要的一门。学外语时，尽量到说这种语言的地方走走。外面究竟有没有下雨，走出去才知道；亲眼看过的地方，也会留下书本给不了的记忆。&lt;/p&gt;
-&lt;p&gt;语言要学下去，研究要做下去，靠的都是日复一日的专注与执行。和同层次的人拉开距离，也靠这两样。&lt;strong&gt;执行力可以借助 AI，专注力只能自己守住。&lt;/strong&gt; 身体和精神的健康同样要守住，否则再强的执行力都撑不了太久。去运动，什么方式都好。出门看风景，我更愿意走进自然安静地看；新疆那么美，实在不必只赶着去一个个网红打卡点。用笔写日记，听自己喜欢的歌，看看韩剧，再亲手做几顿饭。做饭尤其有趣。这些事让我有力气把路走长。&lt;/p&gt;
-&lt;p&gt;时间和体力有限，大学里那些看上去很“有用”的忙碌，我都建议避开：社团、学生会和班委职务、走过场的班级活动，还有一场接一场的比赛。哪怕某项比赛在官方名单上的级别很高，也未必比你真正热爱的事重要。大学里的时间不能重来，别把它耗在一场场自己并不在乎的活动上。真正喜欢什么，得自己去做才知道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最好的工作与委任或学位无关。最好的工作，其实是终身学习者在自由市场中的创造性表达。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;选择这样的路，未必人人赞同。当周围的人都在攒头衔、拼排名，迷茫可以，别因此把真诚和热爱也交出去。守住它们，也会遇见原本遇不到的人和机会。大胆试一条你想走、却和别人不太一样的路。前辈和长辈的经验可以听，但他们不在你今天所处的环境里，难免有信息差；选择权终究在你手里。&lt;/p&gt;
-&lt;p&gt;大学三年多以来，我最正确、也最幸运的三个决定是：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;入学半年多，就全身心投入自己热爱的领域扎根。&lt;/li&gt;
-&lt;li&gt;选择去中央财经大学交流。&lt;/li&gt;
-&lt;li&gt;放弃外校保研的预推免资格。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我还在往前走。路有些泥泞，转身就是悬崖。好在一直有人同行。&lt;/p&gt;
-&lt;p&gt;最后，留四份我愿意反复翻的文字。没必要按顺序读，眼下哪个问题最缠着你，就从哪一份开始：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/grit.pdf&#34; &gt;《Grit》&lt;/a&gt;：热情退潮以后，靠什么继续做一件事？&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-china-escaped-the-poverty-trap.pdf&#34; &gt;《How China Escaped the Poverty Trap》&lt;/a&gt;：研究发展与制度的人，值得借它换一种提问方式。&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/shanghai-jiao-tong-university-survival-guide.pdf&#34; &gt;《上海交通大学生存手册》&lt;/a&gt;：如果还在大学，把它当成对校园里那些默认玩法的一次反问。&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/&#34; &gt;《How to fix your entire life in 1 day》&lt;/a&gt;：哪天觉得自己又被惯性推着走，就停一天，问问自己究竟想去哪儿。&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         </item>
         <item>

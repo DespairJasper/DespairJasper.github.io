@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.despairjasper.com/zh-cn/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.despairjasper.com/zh-cn/page/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +28,21 @@
                 href="https://www.despairjasper.com/zh-cn/page/"
                 />
   </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/to-you-forever-young/</loc>
+    <lastmod>2026-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.despairjasper.com/to-you-forever-young/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.despairjasper.com/zh-cn/to-you-forever-young/"
+                />
+  </url><url>
     <loc>https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
