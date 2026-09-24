@@ -1,0 +1,305 @@
+[
+  {
+    "id": "yujian",
+    "title": "遇见",
+    "artist": "孙燕姿",
+    "src": "/music/yujian.mp3",
+    "cover": "/music/covers/yujian.jpg",
+    "lrc": "/music/lyrics/yujian.lrc",
+    "album": "白羽毛之恋 华语典藏情歌 Vol.2",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      95,
+      114,
+      124
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "tianheihei",
+    "title": "天黑黑",
+    "artist": "孙燕姿",
+    "src": "/music/tianheihei.mp3",
+    "cover": "/music/covers/tianheihei.jpg",
+    "lrc": "/music/lyrics/tianheihei.lrc",
+    "album": "孙燕姿 同名专辑",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      135,
+      114,
+      84
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "wohuainiande",
+    "title": "我怀念的",
+    "artist": "孙燕姿",
+    "src": "/music/wohuainiande.mp3",
+    "cover": "/music/covers/wohuainiande.jpg",
+    "lrc": "/music/lyrics/wohuainiande.lrc",
+    "album": "逆光",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      117,
+      90,
+      72
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "niguang",
+    "title": "逆光",
+    "artist": "孙燕姿",
+    "src": "/music/niguang.mp3",
+    "cover": "/music/covers/niguang.jpg",
+    "lrc": "/music/lyrics/niguang.lrc",
+    "album": "逆光",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      143,
+      90,
+      77
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "kaishidongle",
+    "title": "开始懂了",
+    "artist": "孙燕姿",
+    "src": "/music/kaishidongle.mp3",
+    "cover": "/music/covers/kaishidongle.jpg",
+    "lrc": "/music/lyrics/kaishidongle.lrc",
+    "album": "我要的幸福",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      147,
+      140,
+      72
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "yutian",
+    "title": "雨天",
+    "artist": "孙燕姿",
+    "src": "/music/yutian.mp3",
+    "cover": "/music/covers/yutian.jpg",
+    "lrc": "/music/lyrics/yutian.lrc",
+    "album": "My Story,Your Song 经典全记录",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      77,
+      119,
+      143
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "wobunanguo",
+    "title": "我不难过",
+    "artist": "孙燕姿",
+    "src": "/music/wobunanguo.mp3",
+    "cover": "/music/covers/wobunanguo.jpg",
+    "lrc": "/music/lyrics/wobunanguo.lrc",
+    "album": "未完成",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      162,
+      121,
+      87
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "yanleichengshi",
+    "title": "眼泪成诗",
+    "artist": "孙燕姿",
+    "src": "/music/yanleichengshi.mp3",
+    "cover": "/music/covers/yanleichengshi.jpg",
+    "lrc": "/music/lyrics/yanleichengshi.lrc",
+    "album": "My Story,Your Song 经典全记录",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      80,
+      98,
+      109
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "lvguang",
+    "title": "绿光",
+    "artist": "孙燕姿",
+    "src": "/music/lvguang.mp3",
+    "cover": "/music/covers/lvguang.jpg",
+    "lrc": "/music/lyrics/lvguang.lrc",
+    "album": "My Story,Your Song 经典全记录",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      106,
+      130,
+      144
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "diyitian",
+    "title": "第一天",
+    "artist": "孙燕姿",
+    "src": "/music/diyitian.mp3",
+    "cover": "/music/covers/diyitian.jpg",
+    "lrc": "/music/lyrics/diyitian.lrc",
+    "album": "完美的一天",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      87,
+      150,
+      162
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "yuanlai",
+    "title": "原来你什么都不要",
+    "artist": "孙燕姿",
+    "src": "/music/yuanlai.mp3",
+    "cover": "/music/covers/yuanlai.jpg",
+    "lrc": "/music/lyrics/yuanlai.lrc",
+    "album": "Start 自选集",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      141,
+      127,
+      108
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "banjuzaijian",
+    "title": "半句再见",
+    "artist": "孙燕姿",
+    "src": "/music/banjuzaijian.mp3",
+    "cover": "/music/covers/banjuzaijian.jpg",
+    "lrc": "/music/lyrics/banjuzaijian.lrc",
+    "album": "半句再见",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      86,
+      90,
+      134
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "yuandian",
+    "title": "原点",
+    "artist": "孙燕姿 · 蔡健雅",
+    "src": "/music/yuandian.mp3",
+    "cover": "/music/covers/yuandian.jpg",
+    "lrc": "/music/lyrics/yuandian.lrc",
+    "album": "双栖动物",
+    "artistEnglish": "Stefanie Sun · Tanya Chua",
+    "recordArtist": "孙燕姿 · 蔡健雅",
+    "accentRgb": [
+      149,
+      100,
+      101
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      },
+      {
+        "english": "Tanya Chua",
+        "chinese": "蔡健雅"
+      }
+    ],
+    "artistChinese": "孙燕姿\n蔡健雅"
+  }
+]
