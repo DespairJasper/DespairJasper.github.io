@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.despairjasper.com/</loc>
-    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.despairjasper.com/"
+                />
+  </url><url>
+    <loc>https://www.despairjasper.com/about-me/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.despairjasper.com/about-me/"
+                />
+  </url><url>
+    <loc>https://www.despairjasper.com/page/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.despairjasper.com/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.despairjasper.com/page/"
                 />
   </url><url>
     <loc>https://www.despairjasper.com/p/a-stroll-at-4891m-snow-peaks-breeze-and-trash-bags/</loc>
@@ -95,32 +121,6 @@
     <loc>https://www.despairjasper.com/tags/100-day-marathon-plan/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.despairjasper.com/about-me/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/about-me/"
-                />
-  </url><url>
-    <loc>https://www.despairjasper.com/page/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/page/"
-                />
-  </url><url>
     <loc>https://www.despairjasper.com/tags/running/</loc>
     <lastmod>2026-04-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -171,6 +171,9 @@
                 hreflang="en"
                 href="https://www.despairjasper.com/p/the-two-little-ones-first-day-inspecting-the-hometown/"
                 />
+  </url><url>
+    <loc>https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.despairjasper.com/p/2025-outdoor-year-in-review/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
@@ -254,6 +257,14 @@
                 href="https://www.despairjasper.com/archives/"
                 />
   </url><url>
+    <loc>https://www.despairjasper.com/papers/energy-corridors-rural-depopulation/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/gold-medals-paper-shells/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/disasters-and-poverty/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/environmental-effort/</loc>
+  </url><url>
     <loc>https://www.despairjasper.com/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -265,5 +276,17 @@
                 hreflang="en"
                 href="https://www.despairjasper.com/search/"
                 />
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/sifting-the-gold/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/washing-the-stain/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/weathering-the-tempest/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/air-quality-data-integrity/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/reverse-invoicing-supplier-registration/</loc>
+  </url><url>
+    <loc>https://www.despairjasper.com/papers/uhv-cost-pass-through/</loc>
   </url>
 </urlset>

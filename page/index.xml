@@ -7,49 +7,428 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Despair-Jasper</copyright>
-        <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.despairjasper.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>https://www.despairjasper.com/about-me/</link>
-        <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
         
         <guid>https://www.despairjasper.com/about-me/</guid>
         <description>&lt;p&gt;I am an undergraduate economics student at China University of Petroleum (Beijing), and I studied as an exchange student at Central University of Finance and Economics during my sophomore year. My time at CUFE profoundly shaped my academic path, offering the inclusive and rigorous environment where my intellectual curiosity genuinely flourished.&lt;/p&gt;
 &lt;p&gt;My research lies at the intersection of political economy, development economics, and industrial organization. Stemming from my early childhood observations of the world around me, these interests have evolved into a core academic inquiry: &lt;strong&gt;how do micro-level actors strategically respond to institutional frictions and policy interventions?&lt;/strong&gt; Influenced by the Austrian School of Economics and the work of Xiaokai Yang, I study the ongoing tension between rigid institutional designs and the spontaneous order of the market.&lt;/p&gt;
-&lt;p&gt;Empirically, I move beyond conventional datasets, leveraging unique micro-administrative records, geospatial data, and unstructured text to identify hidden strategic behaviors. Currently, I am working on integrating experimental economics into my research framework to more precisely capture actors&amp;rsquo; true preferences and decision-making dynamics. Through these tools, I aim to unpack the unintended consequences of policy designs and understand how grassroots survival strategies shape the long-term trajectory of transitional economies.&lt;/p&gt;
-&lt;h3 id=&#34;publications&#34;&gt;Publications
+&lt;p&gt;Empirically, I move beyond conventional datasets, leveraging unique micro-administrative records, geospatial data, and unstructured text to identify hidden strategic behaviors. Currently, I am bringing field experiments into my research framework to more precisely capture actors&amp;rsquo; true preferences and decision-making dynamics. Through these tools, I aim to unpack the unintended consequences of policy designs and understand how grassroots survival strategies shape the long-term trajectory of transitional economies.&lt;/p&gt;
+&lt;section class=&#34;research-section-card&#34; aria-labelledby=&#34;publications&#34;&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications
+&lt;/h2&gt;&lt;h3 id=&#34;representative-publications&#34;&gt;Representative Publications
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.frl.2025.108932&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/energy-corridors-rural-depopulation/&#34; &gt;Crossed but Not Connected: State-Led Energy Infrastructure Corridors and Rural Depopulation&lt;/a&gt;&lt;br&gt;
+With Chao Feng, Yihan Gu, Xinmin Zhang, and Miao Wang. R&amp;amp;R at &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/journal/journal-of-development-economics&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Journal of Development Economics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/uhv-cost-pass-through/&#34; &gt;Who Benefits from Power Transmission Infrastructure? Cost Pass-Through and Surplus Incidence in China&amp;rsquo;s Ultra-High-Voltage Expansion&lt;/a&gt;&lt;br&gt;
+With Songhao Guo, Xinmin Zhang, and Xiaoyin Yang. R&amp;amp;R at &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/journal/energy-economics&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Energy Economics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-publications&#34;&gt;Other Publications
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/science/article/pii/S1544612325021853&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;From shadows to spotlight: How big data bureaus unveil corporate R&amp;amp;D gaming?&lt;/a&gt;&lt;br&gt;
-Yang, X., Zhang, X., Zang, H., Chu, H., &amp;amp; Feng, C. (2025). &lt;em&gt;Finance Research Letters&lt;/em&gt;, 108932. (JCR 1, ABS2)&lt;/li&gt;
+Yang, X., Zhang, X., Zang, H., Chu, H., &amp;amp; Feng, C. (2025). &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/journal/finance-research-letters&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Finance Research Letters&lt;/em&gt;&lt;/a&gt;, 108932.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;working-papers&#34;&gt;Working Papers
+&lt;/section&gt;
+&lt;section class=&#34;research-section-card&#34; aria-labelledby=&#34;working-papers&#34;&gt;
+&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers
+&lt;/h2&gt;&lt;h3 id=&#34;under-submission&#34;&gt;Under Submission
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/Home_is_Peace_not_a_Place.pdf&#34; &gt;Home is peace, not a place: How does urban storytelling impact talent&amp;rsquo;s &amp;ldquo;vote with their feet&amp;rdquo;?&lt;/a&gt;&lt;br&gt;
-With Xiwei Men and Jiaxiang Wei. Submitted to the 8th National Development Youth Forum (NSD, Peking University)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/sifting-the-gold/&#34; &gt;Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms&lt;/a&gt;&lt;br&gt;
+With Hong Zang, Chao Feng, and Xiaoyin Yang. With Editor at &lt;a class=&#34;link&#34; href=&#34;https://link.springer.com/journal/10551&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Journal of Business Ethics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms&lt;/a&gt;&lt;br&gt;
-With Dr. Hong Zang, Prof. Chao Feng, and Xiaoyin Yang. With Editor at &lt;em&gt;Journal of Business Ethics&lt;/em&gt; (JCR 1, ABS3, FT50)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/washing-the-stain/&#34; &gt;Washing the Stain: When Bureaucrats Sacrifice Efficiency for Political Safety&lt;/a&gt;&lt;br&gt;
+With Chao Feng, Xinmin Zhang, and Miao Wang. Under Review at &lt;a class=&#34;link&#34; href=&#34;https://www.aeaweb.org/journals/pol&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;American Economic Journal: Economic Policy&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/Anticorruption1.pdf&#34; &gt;Washing the Stain: Punitive Decoupling and the Sacrificial Cost for Connected Firms&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng, Dr. Xinmin Zhang, and Prof. Miao Wang. With Editor at &lt;em&gt;The Economic Journal&lt;/em&gt; (JCR 1, ABS4*)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/weathering-the-tempest/&#34; &gt;Weathering the tempest: Natural disasters and firm entry&lt;/a&gt;&lt;br&gt;
+With Chao Feng, Xinmin Zhang, and Xiaoyin Yang. Under Review at &lt;a class=&#34;link&#34; href=&#34;https://www.tandfonline.com/journals/cres20&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Regional Studies&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Weathering the tempest: Natural disasters and firm entry&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Economic Geography&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Why Do Stricter Policies Lead to More Corporate Greenwashing? An Explanation Based on Four-Party Game Theory&lt;/a&gt;&lt;br&gt;
-With Songhao Guo, Dr. Xinmin Zhang, and Xiaoyin Yang. With Editor at &lt;em&gt;Renewable Energy&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;Transferred Social Responsibility: Government Disaster Bailout and Corporate Philanthropy&lt;/a&gt;&lt;br&gt;
-With Prof. Chao Feng and Prof. Miao Wang. Under Review at &lt;em&gt;Journal of Development Economics&lt;/em&gt; (JCR 1, ABS3)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/reverse-invoicing-supplier-registration/&#34; &gt;When Compliance Delays Formalization: Reverse Invoicing and Supplier Registration&lt;/a&gt;&lt;br&gt;
+With Xinmin Zhang, Jun Yang, and Edwin Wang. With Editor at &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/journal/economic-modelling&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Economic Modelling&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Ultimately, research is less about crafting a perfect resume and more about feeding a genuine curiosity. Not every paper will change the world. Still, uncovering a small piece of the truth is rewarding enough. Enjoy the process and do not let the academic grind wear you down.&lt;/p&gt;
+&lt;h3 id=&#34;looking-for-collaborators&#34;&gt;Looking for Collaborators
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/environmental-effort/&#34; &gt;Performance Incentives and the Allocation of Environmental Effort&lt;/a&gt;&lt;br&gt;
+With Edwin Wang and Yihan Gu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/gold-medals-paper-shells/&#34; &gt;Gold Medals, Paper Shells: How High-Powered Incentives Drive Strategic Arbitrage in University Innovation&lt;/a&gt;&lt;br&gt;
+With Edwin Wang, Yukuan Zhang, and Sidney Wong.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/air-quality-data-integrity/&#34; &gt;When Citizens Watch the Monitors: Environmental Protest and the Integrity of Air-Quality Data in China&lt;/a&gt;&lt;br&gt;
+With Yuluo Cui and Songhao Guo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/papers/disasters-and-poverty/&#34; &gt;Major Natural Disasters and Poverty: Evidence from a Global Subnational Monthly Panel&lt;/a&gt;&lt;br&gt;
+With Yuluo Cui, Hong Zang, and Chao Feng.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;section class=&#34;research-section-card&#34; aria-labelledby=&#34;research-projects-community-engagement&#34;&gt;
+&lt;h2 id=&#34;research-projects-community-engagement&#34;&gt;Research Projects &amp;amp; Community Engagement
+&lt;/h2&gt;&lt;h3 id=&#34;research-projects&#34;&gt;Research Projects
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Research on the Drivers and Pathways of Industrial Low-Carbon Transformation under China’s Dual-Carbon Goals&lt;/strong&gt;&lt;br&gt;
+National Social Science Fund of China, General Project (Grant No. 24FGLB004). Project Team Member · Dec 2024–Oct 2026 · Project funding: ¥250,000.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;National Survey of Rural Subjects&lt;/strong&gt;&lt;br&gt;
+Field Research Project, School of Economics, Renmin University of China. Research Assistant (Field Interviewer) · Sep–Oct 2025. PI: Prof. Shouying Liu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;community-engagement&#34;&gt;Community Engagement
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qinghai–Tibet Green Station Project, Green River&lt;/strong&gt;&lt;br&gt;
+Volunteer · Jul 2026.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qinghai–Tibet Green Station Project, Green River&lt;/strong&gt;&lt;br&gt;
+Logbook System and Database Support · Jul–Oct 2026.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;h2 id=&#34;to-you-forever-young&#34;&gt;To You, Forever Young
+&lt;/h2&gt;&lt;p&gt;We live in a time without precedent. AI is only beginning to reshape how we live, work, and produce knowledge. Things that used to take months can now be started by one person with the right tools. Suddenly more is possible, and that makes it even more important to know what you actually want to do.&lt;/p&gt;
+&lt;p&gt;On the practical side, I would recommend a MacBook to anyone looking for an everyday computer. For my own AI workflow, macOS paired with Apple&amp;rsquo;s M-series chips remains hard to beat. Codex, Claude Code, and Google Antigravity are also worth trying firsthand instead of just watching demos. Begin with whatever you can use for free. When I pay, I pay for better models and higher usage limits. In my work, the productivity gain has felt almost exponential. For now, I would rather use the continually improving models from proprietary providers than spend time and money running models locally.&lt;/p&gt;
+&lt;p&gt;As tools grow more powerful, choosing where to place our attention becomes more important. Whatever you study or whatever your level of education, I recommend reading &lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/attention-is-all-you-need.pdf&#34; &gt;&lt;em&gt;Attention Is All You Need&lt;/em&gt;&lt;/a&gt;. You do not have to work in AI to get something out of it. The paper&amp;rsquo;s intuition about allocating attention keeps bringing me back to questions in other fields: with limited resources, what do we notice, and what do we ignore? I try to choose where I get my information, too: GitHub, Apple Podcasts through a US Apple ID, X, YouTube, Bilibili, and Xiaohongshu. Don&amp;rsquo;t wait for someone else to filter the world and hand it to you.&lt;/p&gt;
+&lt;p&gt;Since short videos took off, sustained attention has become harder to come by, and the paper&amp;rsquo;s title has taken on another meaning for me. &lt;strong&gt;I don&amp;rsquo;t think AI will shrink the distance between people across the board. Within a field, it may narrow the gap in tools and execution between people at a similar level while widening the gap between those at different levels.&lt;/strong&gt; Someone with real taste in a field can use it to bring their wildest ideas to life. I am one small example. &lt;strong&gt;AI can help you work faster; it cannot tell you what is worth doing.&lt;/strong&gt; To go further in any field, develop your taste. Talent matters, but reading great work, making things again and again, and taking criticism seriously can build it, too.&lt;/p&gt;
+&lt;p&gt;A quick word about research: if you hope to go far, my advice is a little obsessive. Aim only for journals internationally recognized as the best in your field. Start with questions drawn from your own life, rather than whichever gap is left in the literature. The back-and-forth with editors and referees at top journals sharpens your judgment. So does competing with equally ambitious researchers around the world. &lt;strong&gt;Note: A top journal earns its standing from the people working in its field, not from a rating table.&lt;/strong&gt; There is a growing consensus in academia that researchers should be judged by their best work, not by a pile of papers in weak journals. Over the next twenty years, that principle will only carry more weight in China and elsewhere.&lt;/p&gt;
+&lt;p&gt;I would also recommend going to more seminars. The speaker might be a leading scholar, a rising star, or a researcher few people know; there is something to learn from each of them. The longer I work in a field, the more aware I become of how little I know. Arrogance makes it easy to miss what others could teach me.&lt;/p&gt;
+&lt;p&gt;If you want to speak with people around the world, English cannot remain just another exam subject. &lt;strong&gt;English is worth investing in for life.&lt;/strong&gt; I have never considered the time and money spent on it a loss. Other languages are worth learning, of course, but English is still the most important. When you learn a foreign language, go somewhere it is spoken if you can. You won&amp;rsquo;t know whether it&amp;rsquo;s raining outside until you step out; the places you see for yourself leave memories no book can give you.&lt;/p&gt;
+&lt;p&gt;Sticking with language learning and research takes attention and follow-through, day after day. Those two things also set apart people at a similar level. &lt;strong&gt;AI can help you follow through; only you can protect your attention.&lt;/strong&gt; Look after your body and mind, too; without them, even the strongest drive won&amp;rsquo;t last. Exercise in whatever way you like. When I go out for scenery, I would rather spend quiet time in nature; Xinjiang is too beautiful to rush through a checklist of popular photo stops. Keep a journal by hand, listen to music you love, watch Korean dramas, and cook a few meals yourself. Cooking is especially fun. These things give me the energy to keep going.&lt;/p&gt;
+&lt;p&gt;Time and energy are limited. I would urge students to steer clear of the university activities that only look &amp;ldquo;useful&amp;rdquo;: clubs, student union and class committee positions, class events done for show, and one competition after another. A contest can rank highly on an official list and still matter less than what you actually love. You won&amp;rsquo;t get those years back. Don&amp;rsquo;t spend them on events you don&amp;rsquo;t care about. The only way to learn what you love is to go and do it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The best jobs are neither decreed nor degreed. They are creative expressions of continuous learners in free markets.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A path like that won&amp;rsquo;t win everyone&amp;rsquo;s approval. When people are collecting titles and chasing rankings, it&amp;rsquo;s fine to feel lost; don&amp;rsquo;t give up your sincerity or the things you love. Hold on to them, and you may meet people and find opportunities you would otherwise miss. Dare to try a path you want even if it looks different from everyone else&amp;rsquo;s. People who have gone before you are worth listening to, but they aren&amp;rsquo;t living in your present. Their advice inevitably has blind spots; the choice remains yours.&lt;/p&gt;
+&lt;p&gt;In a little over three years at university, these are the three decisions I count as both my best and my luckiest:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Throwing myself into the field I love and putting down roots there a little over six months after starting university.&lt;/li&gt;
+&lt;li&gt;Choosing to go on exchange at the Central University of Finance and Economics.&lt;/li&gt;
+&lt;li&gt;Giving up the opportunity to apply through another university’s early graduate recommendation process.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am still moving forward. The road is muddy, with a cliff behind me. Fortunately, there have always been people beside me.&lt;/p&gt;
+&lt;p&gt;Here are four things I would gladly read again. No need to start at the top; start with the question that has been on your mind lately:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/grit.pdf&#34; &gt;&lt;em&gt;Grit&lt;/em&gt;&lt;/a&gt;: When the first rush of enthusiasm fades, what keeps you at the work?&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-china-escaped-the-poverty-trap.pdf&#34; &gt;&lt;em&gt;How China Escaped the Poverty Trap&lt;/em&gt;&lt;/a&gt;: If you study development and institutions, it may change the questions you ask.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/shanghai-jiao-tong-university-survival-guide.pdf&#34; &gt;&lt;em&gt;The Shanghai Jiao Tong University Survival Guide&lt;/em&gt;&lt;/a&gt;: If you are still at university, read it as a challenge to the rules everyone takes for granted on campus.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/&#34; &gt;&lt;em&gt;How to fix your entire life in 1 day&lt;/em&gt;&lt;/a&gt;: When you feel life running on autopilot, take a day to ask where you actually want to go.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>How to fix your entire life in 1 day</title>
+        <link>https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/reading/how-to-fix-your-entire-life-in-1-day/</guid>
+        <description>&lt;p&gt;&lt;em&gt;do this before 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Original article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://substack-post-media.s3.amazonaws.com/public/images/ff7e5686-ed58-424b-8af0-a8d6cdd33fc0_1920x1080.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Cover image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;You’re probably going to quit your new years resolution.&lt;/p&gt;
+&lt;p&gt;And that’s okay. Most people do (studies show 80-90% failure rates) because most people don’t actually want to change on a deep, internal level. That is, they go about changing their life in the completely wrong way. They create a new years resolution because everyone else does – humans want to impress others more than they want to impress themselves&amp;hellip; we create a superficial meaning out of status games – but they don’t meet the requirements for true change, which goes a lot deeper than convincing yourself you’re going to be more disciplined or productive this year.&lt;/p&gt;
+&lt;p&gt;I’m not here to talk down on you. I’ve quit 10 times more goals than I’ve set. I think that should be the case for most people. But the fact that people try to change their lives and utterly fail almost every time holds true. So much so that it’s a meme for the gym to be crowded during January and return back to normal in February.&lt;/p&gt;
+&lt;p&gt;However, as much as I think new years resolutions are stupid, it’s always wise to reflect on the life you hate so you can launch yourself toward something that much better, as we will discuss.&lt;/p&gt;
+&lt;p&gt;Human nature is a b*tch, and the worst feeling is when you make a promise to yourself and can’t help but break it. You start to feel helpless, and if you don’t know what you’re doing, you may continue the cycle for years on end: always wanting to change, but never being able to.&lt;/p&gt;
+&lt;p&gt;So whether you want to start the business, transform your body, or take the risk toward a more meaningful life without quitting after 2 weeks, I want to share 7 ideas you probably haven’t heard before on behavior change, psychology, and productivity so you can do just that in 2026.&lt;/p&gt;
+&lt;p&gt;This will be comprehensive.&lt;/p&gt;
+&lt;p&gt;This isn’t one of those letters that you read through and forget about.&lt;/p&gt;
+&lt;p&gt;This is something you will want to bookmark, take notes on, and set aside time to think about.&lt;/p&gt;
+&lt;p&gt;The protocol at the end – to dig deep into your psyche and uncover what you truly want in life – will take about a full day to complete, with effects that last far longer than that.&lt;/p&gt;
+&lt;p&gt;All I ask is that you dedicate your full attention to this. If you get bored skip to the next section and go back to fill in the blanks if you need to.&lt;/p&gt;
+&lt;p&gt;Let’s begin.&lt;/p&gt;
+&lt;p&gt;(I also turned this letter into a video if you would rather watch it)&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+&lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/K8K09g9XR4s?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0&#34; width=&#34;728&#34; height=&#34;409&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;i--you-arent-where-you-want-to-be-because-you-arent-the-person-who-would-be-there&#34;&gt;I – You aren’t where you want to be because you aren’t the person who would be there
+&lt;/h3&gt;&lt;p&gt;When it comes to New Year’s resolutions, people only focus on one of the two requirements for success:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Changing your actions to make progress toward the goal (least important, second order)&lt;/li&gt;
+&lt;li&gt;Changing who you are so that your behavior naturally follows (most important, first order)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Most people set a surface-level goal, hype themselves up to remain disciplined for the first few weeks, then go back to their old ways without much struggle, because they were trying to build a great life on a rotting foundation.&lt;/p&gt;
+&lt;p&gt;If this doesn’t make sense, let’s run through an example.&lt;/p&gt;
+&lt;p&gt;Think of somebody successful. It can be a bodybuilder with a great physique, a founder/CEO worth hundreds of millions, or a charismatic dude who can chat up a group without a shred of anxiety entering his mind space.&lt;/p&gt;
+&lt;p&gt;Do you think the bodybuilder has to “grind” to eat healthy? Does the CEO have to discipline themselves to show up and lead the team? To you, it may seem like that on the surface, but the truth is that &lt;em&gt;they can’t see themselves living any other way.&lt;/em&gt; The bodybuilder has to grind to eat &lt;strong&gt;unhealthily&lt;/strong&gt;. The CEO has to force themself to lie in bed past their alarm clock, and they hate every second of it.&lt;/p&gt;
+&lt;p&gt;To some people, my own lifestyle seems a bit extreme and disciplined. To me, it’s natural, and I don’t say that to contrast it with any other kind of lifestyle. I simply enjoy living this way. When my mom tells me that I should take a break, go out, and have some fun&amp;hellip; I hold my tongue from telling her, “If I weren’t having fun, why would I be doing what I’m doing?”&lt;/p&gt;
+&lt;p&gt;Do not take this next sentence lightly.&lt;/p&gt;
+&lt;p&gt;If you want a specific outcome in life, you must have the &lt;em&gt;lifestyle&lt;/em&gt; that creates that outcome long before you reach it.&lt;/p&gt;
+&lt;p&gt;If someone says they want to lose 30 pounds, I often don’t believe them. Not because I don’t think they are capable, but because there are too many times when that same person says “they can’t wait until they’re done losing weight so they can start to enjoy life again.” I hate to break it to you, but if you don’t adopt the lifestyle that led to you losing the weight, for life, and find a &lt;em&gt;reason with a higher gravitational pull&lt;/em&gt; than the one tying you to your previous ways, then you will go straight back to where you started, and you can unhappily say that you wasted the resource you will never get back: time.&lt;/p&gt;
+&lt;p&gt;When you truly change yourself, all of your habits that don’t move the needle toward your goal become disgusting, because you have a deep and profound awareness of what kind of life those actions compound into. You are okay with your current standards because you are not fully aware of what they are or what they lead to. We will discuss how to uncover this, but we need to build up to that.&lt;/p&gt;
+&lt;p&gt;You say you want to change. You say you want to “become financially free” and “get healthy,” but your actions show otherwise for a reason. And it goes a lot deeper than you think.&lt;/p&gt;
+&lt;h3 id=&#34;ii--you-arent-where-you-want-to-be-because-you-dont-want-to-be-there&#34;&gt;II – You aren’t where you want to be because you don’t want to be there
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Trust only movement. Life happens at the level of events, not of words. Trust movement.&lt;/p&gt;
+&lt;p&gt;– Alfred Adler&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you want to change who you are, you must understand &lt;em&gt;how the mind works&lt;/em&gt; so that you can start to reprogram it.&lt;/p&gt;
+&lt;p&gt;The first step to understanding the mind is to understand that all behavior is goal-oriented. When you think about it, this is kinda obvious, but when we dig into it, most people don’t want to hear it.&lt;/p&gt;
+&lt;p&gt;You take a step forward because you want to reach a certain location.&lt;/p&gt;
+&lt;p&gt;You scratch your nose because you want to make the itch go away.&lt;/p&gt;
+&lt;p&gt;Those ones are clear, but most of the time, your goals are unconscious. You may not realize that when you sit on the couch in the middle of the day, you are trying to burn time before your next responsibility, as one simple example.&lt;/p&gt;
+&lt;p&gt;On an even more unconscious and complex level, you pursue goals that can harm you, but you justify your actions in a way that is socially acceptable and doesn’t make you seem like a loser.&lt;/p&gt;
+&lt;p&gt;As an example, if you can’t stop procrastinating your work, you may justify it with the fact that you “lack discipline,” but in reality, you are attempting to achieve a goal like you always are. In this case, that goal could be to &lt;em&gt;protect yourself from the judgment that comes from finishing and sharing your work.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you say you want to quit your dead-end job, but stay in it without any real reason, you may start to think you don’t have enough courage, or that you were never really a “risk taker,” but the truth is that you are pursuing the goal of safety, predictability, and an excuse to not look like a failure to everyone else in your life who also works a dead-end job.&lt;/p&gt;
+&lt;p&gt;The lesson here is that real change requires changing your goals.&lt;/p&gt;
+&lt;p&gt;I don’t mean &lt;em&gt;setting&lt;/em&gt; some surface level goal &lt;em&gt;because the act of doing that serves an unconscious goal that is actually harming you&lt;/em&gt;. That’s been ran through enough in the productivity space. I mean changing your &lt;em&gt;point of view.&lt;/em&gt; Because that’s what a goal is. A goal is a projection into the future that acts as a lens of perception which allows you to notice information, ideas, and resources that aid in you achieving that goal.&lt;/p&gt;
+&lt;p&gt;Now let’s dig a bit deeper, because if you don’t understand this, it only becomes more difficult to get out.&lt;/p&gt;
+&lt;h3 id=&#34;iii--you-arent-where-you-want-to-be-because-youre-afraid-to-be-there&#34;&gt;III – You aren’t where you want to be because you’re afraid to be there
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;The important thing for you to remember is that it does not matter in the least how you got the idea or where it came from. You may never have met a professional hypnotist. You may never have been formally hypnotized. But if you have accepted an idea - from yourself, your teachers, your parents, friends, advertisements, from any other source - and further, if you are firmly convinced that idea is true, it has the same power over you as the hypnotist’s words have over the hypnotized subject.&lt;/p&gt;
+&lt;p&gt;– Maxwell Maltz&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Here’s how you’ve become who you are today, and how you will become who you will be tomorrow. This is the anatomy of identity:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You want to achieve a goal&lt;/li&gt;
+&lt;li&gt;You perceive reality through the lens of that goal&lt;/li&gt;
+&lt;li&gt;You only notice “important” information and ideas that allows you to achieve that goal (learning)&lt;/li&gt;
+&lt;li&gt;You act toward that goal and receive feedback that you are progressing toward it&lt;/li&gt;
+&lt;li&gt;You repeat that behavior until it becomes automatic and unconscious (conditioning)&lt;/li&gt;
+&lt;li&gt;That behavior becomes a part of who you think you are (”I am the type of person who&amp;hellip;”)&lt;/li&gt;
+&lt;li&gt;You defend your identity to maintain psychological consistency&lt;/li&gt;
+&lt;li&gt;Your identity shapes new goals, restarting the cycle, and if that identity is disadvantageous toward a good life, this gets bad very quick&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The unfortunate reality is that you must break the cycle between steps 6 and 7, but this process starts when you are a child.&lt;/p&gt;
+&lt;p&gt;You have the goal of survival.&lt;/p&gt;
+&lt;p&gt;You are dependent on your parents to teach you how to survive. You had to conform. And since the way most people teach is through reward and punishment, unless you adopt their beliefs and values, you will be punished. You don’t actually think for yourself until you see through this.&lt;/p&gt;
+&lt;p&gt;But your parents have also gone through this process throughout their entire lives. That’s where it can get dangerous. Your parents, unless they broke the pattern themselves, were conditioned by the culturally accepted ideas of success from the Industrial age. They also carry the best and worst conditioning from their parents and their parents’ parents.&lt;/p&gt;
+&lt;p&gt;To take it a layer deeper, once you fulfill your physical survival needs (which is quite easy to do in today’s world, you’re practically born into safety), you start to survive on the conceptual or ideological level. You may not try to protect and reproduce your body, but you absolutely protect and reproduce your mind. It’s not difficult to see the war of ideas on the internet, and the participants are individual and group identities.&lt;/p&gt;
+&lt;p&gt;When your body feels threatened, you go into fight or flight.&lt;/p&gt;
+&lt;p&gt;When your identity feels threatened, the same thing happens.&lt;/p&gt;
+&lt;p&gt;If you are heavily identified with a political ideology (by the process we talked about just before), you will feel threatened when someone challenges your beliefs. You literally feel the stress. You feel, emotionally, like you were just slapped in the face. Since most people don’t analyze their emotions for truth, you tend to get stuck in echo chambers and double down on claims that harm yourself and others.&lt;/p&gt;
+&lt;p&gt;If you were raised in a religious household, and did not think for yourself, you will fight and attack others who threaten your psychological safety within that little bubble.&lt;/p&gt;
+&lt;p&gt;The same thing happens when you unconsciously see yourself as a lawyer, a gamer, or somebody else who would not take the actions to achieve a better life.&lt;/p&gt;
+&lt;h3 id=&#34;iv--the-life-you-want-lies-within-a-specific-level-of-mind&#34;&gt;IV – The life you want lies within a specific level of mind
+&lt;/h3&gt;&lt;p&gt;The mind evolves through predictable stages over time.&lt;/p&gt;
+&lt;p&gt;When you’re born, you’re like a little survival sponge that absorbs whatever beliefs you can (which are heavily dictated by your culture) so that you can feel safe and secure. And if you don’t be careful, your mind may crystalize and it may make it difficult to live a meaningful life.&lt;/p&gt;
+&lt;p&gt;This has been documented enough in models like Maslow’s Hierarchy, Greuter’s stages of ego development, and Spiral Dynamics, each building off of one another, but it’s also not difficult to observe in society.&lt;/p&gt;
+&lt;p&gt;I’ve talked about these many times, and synthesized them into my own &lt;a class=&#34;link&#34; href=&#34;https://letters.thedankoe.com/p/human-30-a-map-to-reach-the-top-1?lli=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Human 3.0 model&lt;/a&gt;, but here’s the 80/20 of the 9 stages of ego development as a refresher (because repetition helps reveal things you didn’t notice before, and there are new people reading these letters):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://substack-post-media.s3.amazonaws.com/public/images/befe4764-cb9d-4415-a39e-4ddfe4164106_1000x672.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Impulsive&lt;/strong&gt; — No separation between impulse and action. Black and white thinking. &lt;em&gt;I.e. A toddler hits when angry because the feeling and the behavior are the same thing.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-Protective&lt;/strong&gt; — The world is dangerous and you learn to look out for yourself. &lt;em&gt;I.e. A kid learns to hide report cards, lie about chores, and figure out what adults want to hear.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conformist&lt;/strong&gt; — You are your group and its rules feel like reality itself. &lt;em&gt;I.e. Someone who genuinely cannot fathom why anyone would vote differently than their family or group.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-Aware&lt;/strong&gt; — You notice you have an inner life that doesn’t match the exterior. &lt;em&gt;I.e. Sitting in church and realizing you’re not sure you believe what everyone around you seems to believe, but not knowing what to do with that feeling yet.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conscientious&lt;/strong&gt; — You build your own system of principles and hold yourself accountable to them. &lt;em&gt;I.e. Leaving your family’s religion after careful study and adopting a personal philosophy you can defend, or building a career plan with clear milestones because you believe the right effort yields the right results.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Individualist&lt;/strong&gt; — You see that your principles were shaped by context and start holding them more loosely. &lt;em&gt;I.e. Realizing your political views have more to do with where you grew up than objective truth, or noticing that your ambitious career goals were really about earning your father’s approval.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategist&lt;/strong&gt; — You work with systems while aware of your own involvement in them. &lt;em&gt;I.e. Leading an organization while actively questioning your own blind spots, or engaging in politics knowing your perspective is partial and shaped by bias you can’t fully see.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Construct-Aware&lt;/strong&gt; — You see all frameworks, including your identity, as useful fictions. &lt;em&gt;I.e. Holding your spiritual beliefs with metaphorically not literally, knowing the map is not the territory, or watching yourself play the role of “founder” or “thought leader” with a kind of gentle amusement.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unitive&lt;/strong&gt; — Separation between self and life dissolves. &lt;em&gt;I.e. Work, rest, and play feel like the same thing. There’s no one left who needs to become something, just presence responding to what arises.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For most people reading this, I would assume you hover between 4 and 8, which is a huge gap. Those closer to 8 are reading this are doing so to either learn something or pass time. Those closer to 4 are really looking for a change. You feel like you are meant for more, but you can’t make sense of everything yet, because there’s obviously a lot at play.&lt;/p&gt;
+&lt;p&gt;The good thing is, it doesn’t really matter what stage you are in, because moving through any of them follows a pattern.&lt;/p&gt;
+&lt;h3 id=&#34;v--intelligence-is-the-ability-to-get-what-you-want-out-of-life&#34;&gt;V – Intelligence is the ability to get what you want out of life
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;The only real test of intelligence is if you get what you want out of life.&lt;/p&gt;
+&lt;p&gt;– Naval Ravikant&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There is a formula for success.&lt;/p&gt;
+&lt;p&gt;One ingredient is &lt;strong&gt;agency&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;One ingredient is &lt;strong&gt;opportunity&lt;/strong&gt; (which many people like to mistake as “privilege” - because they the other ingredients).&lt;/p&gt;
+&lt;p&gt;The last ingredient is &lt;strong&gt;intelligence&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If you have high agency but low opportunity, it doesn’t matter how likely you are to act toward a goal, because it isn’t a goal that will bear much fruit.&lt;/p&gt;
+&lt;p&gt;If you have opportunity and agency but low intelligence, then you will never be fully able to benefit from that opportunity.&lt;/p&gt;
+&lt;p&gt;First, we’ve talked about agency before here. In terms of opportunity, I can’t tell you to change your physical location, but if you don’t see the abundance of digital opportunity right in front of you, I don’t know what to tell you.&lt;/p&gt;
+&lt;p&gt;With that said, I want to focus on &lt;em&gt;what intelligence is&lt;/em&gt; in the context of these two other ingredients and this letter.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cybernetics comes from the greek word &lt;em&gt;kybernetikos&lt;/em&gt; which means “to steer” or “good at steering.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It’s also known as “the art of getting what you want.”&lt;/p&gt;
+&lt;p&gt;So, if Naval’s definition of intelligence is getting what you want out of life, understanding cybernetics helps you do that much faster.&lt;/p&gt;
+&lt;p&gt;Cybernetics illustrates the properties of intelligent systems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To have a goal.&lt;/li&gt;
+&lt;li&gt;Act toward that goal.&lt;/li&gt;
+&lt;li&gt;Sense where you are.&lt;/li&gt;
+&lt;li&gt;Compare it to the goal.&lt;/li&gt;
+&lt;li&gt;And act again based on that feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://substack-post-media.s3.amazonaws.com/public/images/6d235caf-992b-46be-b190-2507005ad52d_1150x364.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can judge intelligence based on the system’s ability to iterate and persist with trial and error.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A ship blown off course that corrects toward its destination. A thermostat sensing a change in heat and turning on. The pancreas excreting insulin after blood glucose spikes.&lt;/p&gt;
+&lt;p&gt;What does this have to do with getting what you want out of life?&lt;/p&gt;
+&lt;p&gt;Everything.&lt;/p&gt;
+&lt;p&gt;Acting, sensing, comparing, and understanding the system from a meta-perspective is fundamental to high intelligence.&lt;/p&gt;
+&lt;p&gt;High intelligence is the ability to iterate, persist, and understand the big picture. &lt;strong&gt;The mark of low intelligence is the inability to learn from your mistakes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Low-intelligence people get stuck on problems rather than solving them. They hit a roadblock and quit. Like a writer who fails to build a readership and quits because they lack the ability to try new things, experiment, and figure out a process that works for them (to think that there isn’t an effective process you can create is verifiably false, no matter your limiting beliefs, hence being low intelligence.)&lt;/p&gt;
+&lt;p&gt;High intelligence is realizing any problem can be solved on a large enough timescale. The reality is that you can achieve any goal you set your mind to. This isn’t something that can be disproven within reason.&lt;/p&gt;
+&lt;p&gt;Intelligence is realizing that &lt;em&gt;there is&lt;/em&gt; a series of choices you can make which lead to achieving the goal you want. You understand that ideas are hierarchical and that you can’t go from papyrus to Google docs in one fell swoop. Even if that goal is impossible right now, you simply don’t have the resources – which may be invented over the next few years – to achieve that thing.&lt;/p&gt;
+&lt;p&gt;When I talk about “goals,” and as I will continue repeating, I am not speaking from the typical lens of self-help, although that’s a helpful lens to adopt at times.&lt;/p&gt;
+&lt;p&gt;I am speaking from the lens of &lt;em&gt;teleology&lt;/em&gt; or the Greek &lt;em&gt;kosmos&lt;/em&gt; – that everything serves a &lt;em&gt;purpose&lt;/em&gt;. That everything is a part of a greater whole.&lt;/p&gt;
+&lt;p&gt;Goals determine how you see the world.&lt;/p&gt;
+&lt;p&gt;Goals determine what you consider “success” or “failure.”&lt;/p&gt;
+&lt;p&gt;You can try to “enjoy the journey,” but if you pursue the wrong goal, you will not enjoy it.&lt;/p&gt;
+&lt;p&gt;Your mind is the operating system for reality.&lt;/p&gt;
+&lt;p&gt;That system is composed of goals.&lt;/p&gt;
+&lt;p&gt;For most people, those goals are assigned to them. Programmed like lines of code in your psyche.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go to school. Get the job. Get offended. Play victim. Retire at 65.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A known path that doesn’t work.&lt;/p&gt;
+&lt;p&gt;To become more intelligent, you must:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reject the known path&lt;/li&gt;
+&lt;li&gt;Dive into the unknown&lt;/li&gt;
+&lt;li&gt;Set new, higher goals to expand your mind&lt;/li&gt;
+&lt;li&gt;Embrace the chaos and allow for growth&lt;/li&gt;
+&lt;li&gt;Study the generalized principles of nature&lt;/li&gt;
+&lt;li&gt;Become a deep generalist&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That leads us into the next section perfectly.&lt;/p&gt;
+&lt;h3 id=&#34;vi--how-to-launch-into-a-completely-new-life-in-1-day&#34;&gt;VI – How to launch into a completely new life (in 1 day)
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;The best periods of my life always came after a period of getting absolutely fed up with the lack of progress I was making.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;How do you dig into your mind?&lt;/p&gt;
+&lt;p&gt;How do you become aware of your conditioning?&lt;/p&gt;
+&lt;p&gt;How do you reach profound insights and truths that change the trajectory of your life?&lt;/p&gt;
+&lt;p&gt;Through the simple, but often painful act of &lt;em&gt;questioning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Something that so few people do, and you can tell by how they speak or give their thoughts on a specific topic. Questioning is thinking, and very few people do it.&lt;/p&gt;
+&lt;p&gt;I want to give you a comprehensive protocol that you can use every year to reset your life and launch into a season of intense progress. This protocol helps you ask the right questions.&lt;/p&gt;
+&lt;p&gt;These questions will cover the macro to the micro: where you want to be, what you need to do to get there, and what you can do immediately to start moving the needle toward that reality.&lt;/p&gt;
+&lt;p&gt;This will require one full day to complete, so I recommend you follow along with the exact protocol. You will need a pen, paper, and an open mind.&lt;/p&gt;
+&lt;p&gt;When I observe patterns in people who successfully flip their identity, it happens fast after a build up of tension. Specifically, I’ve noticed 3 phases that people then to go through.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Dissonance&lt;/strong&gt; – They feel like they don’t belong in their current life, and become sufficiently fed up with their lack of progress.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uncertainty&lt;/strong&gt; – They don’t know what comes next, so they either experiment or get lost and feel worse.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discovery&lt;/strong&gt; – They discover what they want to pursue and make 6 years of progress in 6 months.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, our goal with this protocol is to help you reach the point of dissonance, navigate through uncertainty, and discover what it truly is that you want to achieve, so much so that the clarity is overwhelming and distractions no longer hold their weight.&lt;/p&gt;
+&lt;p&gt;This protocol is structured so that it can be completed in one day. In the morning, you do a psychological excavation to uncover your own hidden motives. During the day, you prompt yourself with interrupts to keep you out of autopilot and contemplate your life. At night, you synthesize the insights into a direction you will start to move in tomorrow.&lt;/p&gt;
+&lt;p&gt;I cannot guarantee that this will work for everyone, because I cannot guarantee that everyone reading this is in the right chapter of their own story that would make these points impactful. You can’t place the climax at the start of the book and expect it to be interesting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Part 1) Morning – Psychological Excavation – Vision &amp;amp; Anti-Vision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First we must create a new frame, or lens of perception, for your mind to operate from.&lt;/p&gt;
+&lt;p&gt;This is like creating a new shell, leaving your old one, and slowly growing into it over time. It won’t feel like it fits at first. That’s a good thing.&lt;/p&gt;
+&lt;p&gt;Set aside 15-30 minutes (the length of one YouTube video&amp;hellip; you can do it) to think about and answer these questions. Do not attempt to outsource this contemplation to AI. I want you to break past the limiter that is on your mind. If you can’t answer these immediately, come back to them later.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is the dull and persistent dissatisfaction you’ve learned to live with? Not the deep suffering but what you’ve learned to tolerate. (If you don’t hate it, you will tolerate it)&lt;/li&gt;
+&lt;li&gt;What do you complain about repeatedly but never actually change? Write down the three complaints you’ve voiced most often in the past year.&lt;/li&gt;
+&lt;li&gt;For each complaint: What would someone who watched your behavior (not your words) conclude that you actually want?&lt;/li&gt;
+&lt;li&gt;What truth about your current life would be unbearable to admit to someone you deeply respect?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Those questions are meant to make you aware of the pain in your current life. Now, we need to turn those into what I call an “anti-vision,” which is a brutal awareness of the life you do not want to live. That way, you can use that negative energy to aim your efforts in a positive direction and act from a place of intrinsic motivation.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;If absolutely nothing changes for the next five years, describe an average Tuesday. Where do you wake up? What does your body feel like? What’s the first thing you think about? Who’s around you? What do you do between 9am and 6pm? How do you feel at 10pm?&lt;/li&gt;
+&lt;li&gt;Now do it but for ten years. What have you missed? What opportunities closed? Who gave up on you? What do people say about you when you’re not in the room?&lt;/li&gt;
+&lt;li&gt;You’re at the end of your life. You lived the safe version. You never broke the pattern. What was the cost? What did you never let yourself feel, try, or become?&lt;/li&gt;
+&lt;li&gt;Who in your life is already living the future you just described? Someone five, ten, twenty years ahead on the same trajectory? What do you feel when you think about becoming them?&lt;/li&gt;
+&lt;li&gt;What identity would you have to give up to actually change? (”I am the type of person who&amp;hellip;”) What would it cost you socially to no longer be that person?&lt;/li&gt;
+&lt;li&gt;What is the most embarrassing reason you haven’t changed? The one that makes you sound weak, scared, or lazy rather than reasonable?&lt;/li&gt;
+&lt;li&gt;If your current behavior is a form of self-protection, what exactly are you protecting? And what is that protection costing you?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you answered those truthfully, and if you are in the right chapter of your life, you will feel a deep sense of dis-ease and possibly disgust for how you are currently living. Now, we need to orient that energy in a positive direction. We need to create a minimum viable vision, because your vision is like a product. It starts out unclear, but with time and experience, it grows stronger and more potent.&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Forget practicality for a minute. If you could snap your fingers and be living a different life in three years, not what’s realistic, what you actually &lt;em&gt;want&lt;/em&gt;? What does an average Tuesday look like? Same level of detail as question 5.&lt;/li&gt;
+&lt;li&gt;What would you have to believe about yourself for that life to feel natural rather than forced? Write the identity statement: “I am the type of person who&amp;hellip;”&lt;/li&gt;
+&lt;li&gt;What is one thing you would do this week if you were already that person?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Answer all of those first thing in the morning tomorrow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Part 2) Throughout The Day – Interrupting Autopilot – Breaking Unconscious Patterns&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These journaling exercises are cute, but we want real change.&lt;/p&gt;
+&lt;p&gt;Frankly, that’s not going to happen if you don’t break the current unconscious patterns that are keeping you the same.&lt;/p&gt;
+&lt;p&gt;Throughout the day, I want you to contemplate on everything you journaled in part one. Beyond that, I don’t want you to forget to contemplate. Please take this seriously. You aren’t going to change by doing the same thing for the rest of your life. You need to consciously force a pattern break.&lt;/p&gt;
+&lt;p&gt;Take the time right now to create reminders or calendar events in your phone. Include the question in the reminder or event so that you can immediately start thinking about it.&lt;/p&gt;
+&lt;p&gt;The more random and non-conflicting with your schedule there are, the better.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;11:00am:&lt;/strong&gt; What am I avoiding right now by doing what I’m doing?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1:30pm:&lt;/strong&gt; If someone filmed the last two hours, what would they conclude I want from my life?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3:15pm:&lt;/strong&gt; Am I moving toward the life I hate or the life I want?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5:00pm:&lt;/strong&gt; What’s the most important thing I’m pretending isn’t important?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7:30pm:&lt;/strong&gt; What did I do today out of identity protection rather than genuine desire? (Hint: it’s most things you do)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9:00pm:&lt;/strong&gt; When did I feel most alive today? When did I feel most dead?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To add a bit more fuel to the fire, schedule these questions during times where you are either commuting, walking, or lying around.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What would change if I stopped needing people to see me as \[the identity you wrote in question 10\]?&lt;/li&gt;
+&lt;li&gt;Where in my life am I trading aliveness for safety?&lt;/li&gt;
+&lt;li&gt;What’s the smallest version of the person I want to become that I could be tomorrow?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Part 3) Evening – Synthesizing Insight – Entering A Season Of Progress&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you followed that process, I would be surprised if you didn’t have at least &lt;em&gt;one&lt;/em&gt; profound insight that could alter the course of your life. Now, we need to make those known, integrate them into who we are, and act on them to begin solidifying our journey to a new level of mind.&lt;/p&gt;
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;After today, what feels most true about why you’ve been stuck?&lt;/li&gt;
+&lt;li&gt;What is the actual enemy? Name it clearly. Not circumstances. Not other people. The internal pattern or belief that has been running the show.&lt;/li&gt;
+&lt;li&gt;Write a single sentence that captures what you refuse to let your life become. This is your anti-vision compressed. It should make you feel something when you read it.&lt;/li&gt;
+&lt;li&gt;Write a single sentence that captures what you’re building toward, knowing it will evolve. This is your vision MVP.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Lastly, we need to create goals.&lt;/p&gt;
+&lt;p&gt;Again, these aren’t goals that you set for the sake of achievement, because goals are just projections. They are unreliable and make you feel bound to something that will inevitably change. Instead, think of goals as a point of view. A lens that you can exchange to enter the right state of mind to perform the action that will lead away from the life you don’t want. Do not worry about some kind of finish line, because as we will find, it doesn’t exist. Enjoyment is found in progress.&lt;/p&gt;
+&lt;ol start=&#34;20&#34;&gt;
+&lt;li&gt;&lt;strong&gt;One-year lens:&lt;/strong&gt; What would have to be true in one year for you to know you’ve broken the old pattern? One concrete thing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-month lens:&lt;/strong&gt; What would have to be true in one month for the one-year lens to remain possible?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daily lens:&lt;/strong&gt; What are 2-3 actions you can timeblock tomorrow that the person you’re becoming would simply do?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That was a lot.&lt;/p&gt;
+&lt;p&gt;Hopefully it was helpful.&lt;/p&gt;
+&lt;p&gt;But we have one last piece to lock it all in.&lt;/p&gt;
+&lt;p&gt;Stick with me.&lt;/p&gt;
+&lt;h3 id=&#34;vii--turn-your-life-into-a-video-game&#34;&gt;VII – Turn Your Life Into A Video Game
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;The optimal state of inner experience is one in which there is order in consciousness. This happens when psychic energy—or attention—is invested in realistic goals, and when skills match the opportunities for action. The pursuit of a goal brings order in awareness because a person must concentrate attention on the task at hand and momentarily forget everything else.&lt;/p&gt;
+&lt;p&gt;– Mihaly Csikszentmihalyi&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You now have all of the components that lead to a good life.&lt;/p&gt;
+&lt;p&gt;Now, it may be helpful to organize all of your insights into one coherent plan. Pull out a new page and write down these 6 components:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anti-vision&lt;/strong&gt; – What is the bane of my existence, or the life I never want to experience again?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vision&lt;/strong&gt; – What is the ideal life that I think I want and can improve as I work toward it?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 year goal&lt;/strong&gt; – What will my life look like in 1 year time, and is that closer to the life I want?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 month project&lt;/strong&gt; – What do I need to learn? What skills do I need to acquire? What can I build that will move me closer to the one year goal?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daily levers&lt;/strong&gt; – What are the priority, needle-moving tasks that bring my project closer to completion?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Constraints&lt;/strong&gt; – What am I not willing to sacrifice to achieve my vision from the ground up?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Why is this so powerful?&lt;/p&gt;
+&lt;p&gt;Because these components literally create your own little world. If you are meant to pursue this hierarchy of goals at this stage of your life, you will have no other option but to become obsessed. You will feel the pull to something greater. You will not see anything else as an option.&lt;/p&gt;
+&lt;p&gt;You turn your life into a video game.&lt;/p&gt;
+&lt;p&gt;Because games are the poster child for obsession, enjoyment, and flow states. They have all the components that lead to focus and clarity, so if we reverse engineer what those components are, we can live in a state of deeper enjoyment, less distractions, and more success.&lt;/p&gt;
+&lt;p&gt;Your vision is how you &lt;strong&gt;win&lt;/strong&gt;. At least until the game evolves.&lt;/p&gt;
+&lt;p&gt;Your anti-vision is what’s at &lt;strong&gt;stake&lt;/strong&gt;. What happens if you lose or give up.&lt;/p&gt;
+&lt;p&gt;Your 1 year goal is the &lt;strong&gt;mission&lt;/strong&gt;. This is your sole priority in life.&lt;/p&gt;
+&lt;p&gt;Your 1 month project is the &lt;strong&gt;boss fight&lt;/strong&gt;. How you gain XP and acquire loot.&lt;/p&gt;
+&lt;p&gt;Your daily levers are the &lt;strong&gt;quests&lt;/strong&gt;. The daily process that unlocks new opportunities.&lt;/p&gt;
+&lt;p&gt;Your constraints are the &lt;strong&gt;rules&lt;/strong&gt;. The limitations that encourage creativity.&lt;/p&gt;
+&lt;p&gt;All of these act as a concentric set of circles, like a forcefield, that guard your mind from distractions and shiny objects.&lt;/p&gt;
+&lt;p&gt;The more you play the game, the stronger this force becomes, and soon enough it becomes who you are, and you wouldn’t have it any other way.&lt;/p&gt;
+&lt;p&gt;– Dan&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -61,12 +440,112 @@ With Prof. Chao Feng and Prof. Miao Wang. Under Review at &lt;em&gt;Journal of D
         <description></description>
         </item>
         <item>
+        <title>Crossed but Not Connected: State-Led Energy Infrastructure Corridors and Rural Depopulation</title>
+        <link>https://www.despairjasper.com/papers/energy-corridors-rural-depopulation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/energy-corridors-rural-depopulation/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gold Medals, Paper Shells: How High-Powered Incentives Drive Strategic Arbitrage in University Innovation</title>
+        <link>https://www.despairjasper.com/papers/gold-medals-paper-shells/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/gold-medals-paper-shells/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Major Natural Disasters and Poverty: Evidence from a Global Subnational Monthly Panel</title>
+        <link>https://www.despairjasper.com/papers/disasters-and-poverty/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/disasters-and-poverty/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Performance Incentives and the Allocation of Environmental Effort</title>
+        <link>https://www.despairjasper.com/papers/environmental-effort/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/environmental-effort/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Search</title>
         <link>https://www.despairjasper.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.despairjasper.com/search/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>Sifting the Gold: Defensive Screening and the Evolutionary Adaptation of Connected Firms</title>
+        <link>https://www.despairjasper.com/papers/sifting-the-gold/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/sifting-the-gold/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Washing the Stain: When Bureaucrats Sacrifice Efficiency for Political Safety</title>
+        <link>https://www.despairjasper.com/papers/washing-the-stain/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/washing-the-stain/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Weathering the tempest: Natural disasters and firm entry</title>
+        <link>https://www.despairjasper.com/papers/weathering-the-tempest/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/weathering-the-tempest/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>When Citizens Watch the Monitors: Environmental Protest and the Integrity of Air-Quality Data in China</title>
+        <link>https://www.despairjasper.com/papers/air-quality-data-integrity/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/air-quality-data-integrity/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>When Compliance Delays Formalization: Reverse Invoicing and Supplier Registration</title>
+        <link>https://www.despairjasper.com/papers/reverse-invoicing-supplier-registration/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/reverse-invoicing-supplier-registration/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Who Benefits from Power Transmission Infrastructure? Cost Pass-Through and Surplus Incidence in China&#39;s Ultra-High-Voltage Expansion</title>
+        <link>https://www.despairjasper.com/papers/uhv-cost-pass-through/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.despairjasper.com/papers/uhv-cost-pass-through/</guid>
+        <description>&lt;h2 id=&#34;slides&#34;&gt;Slides
+&lt;/h2&gt;&lt;p&gt;Slides will be added here.&lt;/p&gt;
+</description>
         </item>
         
     </channel>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.despairjasper.com/zh-cn/</loc>
-    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.despairjasper.com/zh-cn/"
+                />
+  </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/page/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.despairjasper.com/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.despairjasper.com/zh-cn/page/"
+                />
+  </url><url>
+    <loc>https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.despairjasper.com/about-me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
   </url><url>
     <loc>https://www.despairjasper.com/zh-cn/p/4891%E7%B1%B3%E7%9A%84%E6%95%A3%E6%AD%A5%E9%9B%AA%E5%B1%B1%E5%BE%AE%E9%A3%8E%E4%B8%8E%E7%BC%96%E7%BB%87%E8%A2%8B/</loc>
@@ -90,32 +116,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.despairjasper.com/zh-cn/p/%E5%9C%A8%E9%9D%92%E8%97%8F%E8%B7%91%E5%9B%9E%E5%BD%92/"
-                />
-  </url><url>
-    <loc>https://www.despairjasper.com/zh-cn/page/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2026-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.despairjasper.com/about-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.despairjasper.com/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
   </url><url>
     <loc>https://www.despairjasper.com/zh-cn/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%99%BE%E6%97%A5%E8%AE%A1%E5%88%92/</loc>
