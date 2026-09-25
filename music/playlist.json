@@ -370,5 +370,28 @@
       }
     ],
     "artistChinese": "孙燕姿"
+  },
+  {
+    "id": "bushizhendeaiwo",
+    "title": "不是真的爱我",
+    "artist": "孙燕姿",
+    "src": "/music/bushizhendeaiwo.mp3",
+    "cover": "/music/covers/bushizhendeaiwo.jpg",
+    "lrc": "/music/lyrics/bushizhendeaiwo.lrc",
+    "album": "风筝",
+    "artistEnglish": "Stefanie Sun",
+    "recordArtist": "孙燕姿",
+    "accentRgb": [
+      162,
+      145,
+      109
+    ],
+    "artists": [
+      {
+        "english": "Stefanie Sun",
+        "chinese": "孙燕姿"
+      }
+    ],
+    "artistChinese": "孙燕姿"
   }
 ]
